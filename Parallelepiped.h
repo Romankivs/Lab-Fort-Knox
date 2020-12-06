@@ -7,7 +7,7 @@
 class Parallelepiped
 {
 public:
-	Parallelepiped(const double l, const double w, const double h, const double dens); //Конструктор класу
+	Parallelepiped(const double l, const double w, const double h, const double dens); //РљРѕРЅСЃС‚СЂСѓРєС‚РѕСЂ РєР»Р°СЃСѓ
 	
 	void printInfo();
 
@@ -31,11 +31,11 @@ public:
 
 	void setDensity(const double d);
 	
-	void recompute(); // Обчислити масу та об'єм
+	void recompute(); // РћР±С‡РёСЃР»РёС‚Рё РјР°СЃСѓ С‚Р° РѕР±'С”Рј
 
-	void rotate(); // верхня грань стає передньою
+	void rotate(); // РІРµСЂС…РЅСЏ РіСЂР°РЅСЊ СЃС‚Р°С” РїРµСЂРµРґРЅСЊРѕСЋ
 
-	void turn(); // передня грань стає бічною
+	void turn(); // РїРµСЂРµРґРЅСЏ РіСЂР°РЅСЊ СЃС‚Р°С” Р±С–С‡РЅРѕСЋ
 
 private:
 	void computeVolume();

@@ -76,12 +76,12 @@ void AlienShip::cut(double neededVolume)
 
 		cutOff.setLength(current.getLength() - neededLength);
 		trash.push_back(cutOff);
-		std::cerr << "Part thrown away: " << std::endl;
+		std::cerr << "Part that was thrown away: " << std::endl;
 		cutOff.printInfo();
 
 		current.setLength(neededLength);
 		current.recompute();
-		std::cerr << "Part melted: " << std::endl;
+		std::cerr << "Part that was melted: " << std::endl;
 		current.printInfo();
 	}
 }
@@ -91,7 +91,7 @@ bool AlienShip::checkIfFitsWindow()
 	performAnOperation();
 	if (flag)
 		return false;
-	if (current.getWidth() <= windowWidth && current.getHeight() <= windowHeight) // Повороти не виконуються, енергія не витрачається
+	if (current.getWidth() <= windowWidth && current.getHeight() <= windowHeight) 
 	{
 		return true;
 	}
@@ -102,13 +102,13 @@ bool AlienShip::rotateAndCheckIfFitsWindow()
 {
 	if (!flag)
 	{
-		if (checkIfFitsWindow()) // Паралелепіпед пройшов без повороту
+		if (checkIfFitsWindow()) 
 		{
 			std::cerr << "Fits the window without any movements" << std::endl;
 			return true;
 		}
 		turn();
-		if (checkIfFitsWindow()) // Паралелепіпед пройшов з одним turn
+		if (checkIfFitsWindow())
 		{
 			std::cerr << "Fits the window after being turned" << std::endl;
 			return true;
@@ -116,7 +116,7 @@ bool AlienShip::rotateAndCheckIfFitsWindow()
 		turn();
 
 		rotate();
-		if (checkIfFitsWindow()) // Паралелепіпед пройшов з одним rotate
+		if (checkIfFitsWindow())
 		{
 			std::cerr << "Fits the window after being rotated" << std::endl;
 			return true;
@@ -125,7 +125,7 @@ bool AlienShip::rotateAndCheckIfFitsWindow()
 
 		turn();
 		rotate();
-		if (checkIfFitsWindow()) // Паралелепіпед пройшов з turn потім rotate
+		if (checkIfFitsWindow()) 
 		{
 			std::cerr << "Fits the window after being turned and after that rotated" << std::endl;
 			return true;
@@ -135,7 +135,7 @@ bool AlienShip::rotateAndCheckIfFitsWindow()
 
 		rotate();
 		turn();
-		if (checkIfFitsWindow()) // Паралелепіпед пройшов з rotate потім turn
+		if (checkIfFitsWindow()) 
 		{
 			std::cerr << "Fits the window after being rotated and after that turned" << std::endl;
 			return true;
@@ -146,7 +146,7 @@ bool AlienShip::rotateAndCheckIfFitsWindow()
 		rotate();
 		turn();
 		rotate();
-		if (checkIfFitsWindow()) // Паралелепіпед пройшов з rotate потім turn потім rotate
+		if (checkIfFitsWindow())
 		{
 			std::cerr << "Fits the window after being rotated and after that turned and rotated" << std::endl;
 			return true;
@@ -167,7 +167,7 @@ bool AlienShip::checkIfEnoughEnergy()
 		return true;
 	if (currentEnergy - flyEnergy >= 50 + 1e-5)
 	{
-		std::cerr << "Not enough Energy need to cut off something" << std::endl;
+		std::cerr << "Not enough Energy, need to cut off something" << std::endl;
 		double neededEnergy = currentEnergy - flyEnergy - 50;
 		std::cerr  << "Needed energy:" << neededEnergy << " Current Energy: " << currentEnergy << std::endl;
 		double neededVolume = neededEnergy / (66.2 * current.getDensity());
@@ -211,12 +211,12 @@ bool AlienShip::checkIfEnoughMass()
 
 void AlienShip::melt()
 {
-	bulbaCurVolume += current.getVolume() - 14.2e-6 * current.getVolume() * 296; // Враховане теплове зжимання при охолоджені
+	bulbaCurVolume += current.getVolume() - 14.2e-6 * current.getVolume() * 296; // Р’СЂР°С…РѕРІР°РЅРµ С‚РµРїР»РѕРІРµ Р·Р¶РёРјР°РЅРЅСЏ РїСЂРё РѕС…РѕР»РѕРґР¶РµРЅС–
 	bulbaCurMass += current.getMass();
 
-	currentEnergy -= current.getMass() * 66.2; // Витрата енергії
+	currentEnergy -= current.getMass() * 66.2; // Р’РёС‚СЂР°С‚Р° РµРЅРµСЂРіС–С—
 	std::cerr << "Energy spent: " << current.getMass() * 66.2 << std::endl; 
-	currentEnergy += 0.7 * (0.130 * current.getMass() * (296)); // Рекуперація
+	currentEnergy += 0.7 * (0.130 * current.getMass() * (296)); // Р РµРєСѓРїРµСЂР°С†С–СЏ
 	std::cerr << "Energy received: " << 0.7 * (0.130 * current.getMass() * (296)) << std::endl;
 
 	melted.push_back(current);
@@ -236,7 +236,7 @@ void AlienShip::startProcess()
 	{
 		flag = false;
 		counter++;
-		std::cerr << "Parallelepiped's Number: " << counter << std::endl;
+		std::cerr << "Parallelepiped Number " << counter << std::endl;
 		current.printInfo();
 		if (flag)
 		{
@@ -263,11 +263,11 @@ void AlienShip::flyAway()
 {
 	std::cerr << "Psssssh... Flew Away... " << std::endl;
 	currentEnergy -= flyEnergy;
-	std::cerr << "Trash:" << std::endl; // Видає інформацію про всі викинуті паралелепіпеди
+	std::cerr << "Trash:" << std::endl; // Р’РёРґР°С” С–РЅС„РѕСЂРјР°С†С–СЋ РїСЂРѕ РІСЃС– РІРёРєРёРЅСѓС‚С– РїР°СЂР°Р»РµР»РµРїС–РїРµРґРё
 	for (auto e : trash) {
 		e.printInfo();
 	}
-	std::cerr << "Melted:" << std::endl; // Видає інформацію про всі переплавлені паралелепіпеди
+	std::cerr << "Melted:" << std::endl; // Р’РёРґР°С” С–РЅС„РѕСЂРјР°С†С–СЋ РїСЂРѕ РІСЃС– РїРµСЂРµРїР»Р°РІР»РµРЅС– РїР°СЂР°Р»РµР»РµРїС–РїРµРґРё
 	for (auto e : melted) {
 		e.printInfo();
 	}

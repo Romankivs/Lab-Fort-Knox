@@ -36,7 +36,7 @@ public:
 
 	void startProcess(); // Запустити процес 
 
-	void flyAway(); // Полетіти додому
+	void flyAway(); // Вернутися додому
 private:
 	bool flag = false; // Якщо функція performAnOperation() видасть false, то цей прапорець зміниться на true
 
