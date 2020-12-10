@@ -11,14 +11,14 @@ Length: 30 Width: 26 Height: 5 Density: 19.125 Volume: 3900 Mass: 74587.5
 Fits the window after being rotated and after that turned
 Energy spent: 4.93769e+06
 Energy received: 2.00909e+06
-Energy left: 7.02052e+08 Mass of Gold: 78739 Volume of Gold: 4098.7
+Energy left: 7.02053e+08 Mass of Gold: 78739 Volume of Gold: 4098.7
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 3
 Length: 28 Width: 11 Height: 18 Density: 19.345 Volume: 5544 Mass: 107249
 Fits the window without any movements
 Energy spent: 7.09986e+06
 Energy received: 2.88885e+06
-Energy left: 6.97841e+08 Mass of Gold: 185988 Volume of Gold: 9619.4
+Energy left: 6.97842e+08 Mass of Gold: 185988 Volume of Gold: 9619.4
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 4
 Length: 27 Width: 16 Height: 12 Density: 19.21 Volume: 5184 Mass: 99584.6
@@ -32,2031 +32,2032 @@ Length: 14 Width: 26 Height: 19 Density: 19.195 Volume: 6916 Mass: 132753
 Fits the window after being turned
 Energy spent: 8.78822e+06
 Energy received: 3.57582e+06
-Energy left: 6.88718e+08 Mass of Gold: 418325 Volume of Gold: 21668.5
+Energy left: 6.88719e+08 Mass of Gold: 418325 Volume of Gold: 21668.5
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 6
 Length: 20 Width: 21 Height: 30 Density: 19.335 Volume: 12600 Mass: 243621
 Fits the window after being turned
 Energy spent: 1.61277e+07
 Energy received: 6.56218e+06
-Energy left: 6.79152e+08 Mass of Gold: 661946 Volume of Gold: 34215.6
+Energy left: 6.79153e+08 Mass of Gold: 661946 Volume of Gold: 34215.6
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 7
 Length: 13 Width: 6 Height: 8 Density: 19.09 Volume: 624 Mass: 11912.2
 It isn`t gold
-Energy left: 6.79152e+08 Mass of Gold: 661946 Volume of Gold: 34215.6
+Energy left: 6.79153e+08 Mass of Gold: 661946 Volume of Gold: 34215.6
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 8
 Length: 2 Width: 16 Height: 17 Density: 19.085 Volume: 544 Mass: 10382.2
 It isn`t gold
-Energy left: 6.79152e+08 Mass of Gold: 661946 Volume of Gold: 34215.6
+Energy left: 6.79153e+08 Mass of Gold: 661946 Volume of Gold: 34215.6
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 9
 Length: 24 Width: 21 Height: 4 Density: 19.315 Volume: 2016 Mass: 38939
 Fits the window after being rotated and after that turned
 Energy spent: 2.57776e+06
 Energy received: 1.04886e+06
-Energy left: 6.77622e+08 Mass of Gold: 700885 Volume of Gold: 36223.1
+Energy left: 6.77623e+08 Mass of Gold: 700885 Volume of Gold: 36223.1
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 10
 Length: 15 Width: 26 Height: 20 Density: 19.2 Volume: 7800 Mass: 149760
 Fits the window after being turned
 Energy spent: 9.91411e+06
 Energy received: 4.03394e+06
-Energy left: 6.71742e+08 Mass of Gold: 850645 Volume of Gold: 43990.3
+Energy left: 6.71743e+08 Mass of Gold: 850645 Volume of Gold: 43990.3
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 11
 Length: 28 Width: 26 Height: 3 Density: 19.115 Volume: 2184 Mass: 41747.2
 Fits the window after being rotated and after that turned
 Energy spent: 2.76366e+06
 Energy received: 1.1245e+06
-Energy left: 6.70102e+08 Mass of Gold: 892392 Volume of Gold: 46165.1
+Energy left: 6.70103e+08 Mass of Gold: 892392 Volume of Gold: 46165.1
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 12
 Length: 12 Width: 1 Height: 12 Density: 19.325 Volume: 144 Mass: 2782.8
 Fits the window without any movements
 Energy spent: 184221
 Energy received: 74957.5
-Energy left: 6.69992e+08 Mass of Gold: 895175 Volume of Gold: 46308.5
+Energy left: 6.69994e+08 Mass of Gold: 895175 Volume of Gold: 46308.5
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 13
 Length: 29 Width: 26 Height: 4 Density: 19.12 Volume: 3016 Mass: 57665.9
 Fits the window after being rotated and after that turned
 Energy spent: 3.81748e+06
 Energy received: 1.55329e+06
-Energy left: 6.67727e+08 Mass of Gold: 952841 Volume of Gold: 49311.9
+Energy left: 6.67729e+08 Mass of Gold: 952841 Volume of Gold: 49311.9
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 14
 Length: 20 Width: 6 Height: 15 Density: 19.125 Volume: 1800 Mass: 34425
 Fits the window without any movements
 Energy spent: 2.27894e+06
 Energy received: 927272
-Energy left: 6.66375e+08 Mass of Gold: 987266 Volume of Gold: 51104.3
+Energy left: 6.66377e+08 Mass of Gold: 987266 Volume of Gold: 51104.3
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 15
 Length: 28 Width: 21 Height: 8 Density: 19.295 Volume: 4704 Mass: 90763.7
 Fits the window after being rotated and after that turned
 Energy spent: 6.00856e+06
 Energy received: 2.44481e+06
-Energy left: 6.62811e+08 Mass of Gold: 1.07803e+06 Volume of Gold: 55788.5
+Energy left: 6.62813e+08 Mass of Gold: 1.07803e+06 Volume of Gold: 55788.5
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 16
 Length: 17 Width: 16 Height: 2 Density: 19.16 Volume: 544 Mass: 10423
 Fits the window without any movements
 Energy spent: 690005
 Energy received: 280755
-Energy left: 6.62401e+08 Mass of Gold: 1.08845e+06 Volume of Gold: 56330.2
+Energy left: 6.62403e+08 Mass of Gold: 1.08845e+06 Volume of Gold: 56330.2
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 17
 Length: 24 Width: 6 Height: 19 Density: 19.145 Volume: 2736 Mass: 52380.7
 Fits the window without any movements
 Energy spent: 3.4676e+06
 Energy received: 1.41093e+06
-Energy left: 6.60344e+08 Mass of Gold: 1.14083e+06 Volume of Gold: 59054.7
+Energy left: 6.60346e+08 Mass of Gold: 1.14083e+06 Volume of Gold: 59054.7
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 18
 Length: 30 Width: 11 Height: 20 Density: 19.335 Volume: 6600 Mass: 127611
 Fits the window without any movements
 Energy spent: 8.44785e+06
 Energy received: 3.43733e+06
-Energy left: 6.55334e+08 Mass of Gold: 1.26844e+06 Volume of Gold: 65627
+Energy left: 6.55336e+08 Mass of Gold: 1.26844e+06 Volume of Gold: 65627
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 19
 Length: 13 Width: 26 Height: 18 Density: 19.19 Volume: 6084 Mass: 116752
 Fits the window after being turned
 Energy spent: 7.72898e+06
 Energy received: 3.14483e+06
-Energy left: 6.50749e+08 Mass of Gold: 1.3852e+06 Volume of Gold: 71685.4
+Energy left: 6.50751e+08 Mass of Gold: 1.3852e+06 Volume of Gold: 71685.4
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 20
 Length: 12 Width: 16 Height: 27 Density: 19.135 Volume: 5184 Mass: 99195.8
 Fits the window without any movements
 Energy spent: 6.56676e+06
 Energy received: 2.67194e+06
-Energy left: 6.46854e+08 Mass of Gold: 1.48439e+06 Volume of Gold: 76847.6
+Energy left: 6.46856e+08 Mass of Gold: 1.48439e+06 Volume of Gold: 76847.6
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 21
 Length: 14 Width: 11 Height: 4 Density: 19.265 Volume: 616 Mass: 11867.2
 Fits the window without any movements
 Energy spent: 785611
 Energy received: 319656
-Energy left: 6.46388e+08 Mass of Gold: 1.49626e+06 Volume of Gold: 77461
+Energy left: 6.4639e+08 Mass of Gold: 1.49626e+06 Volume of Gold: 77461
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 22
 Length: 5 Width: 6 Height: 30 Density: 19.2 Volume: 900 Mass: 17280
 Fits the window without any movements
 Energy spent: 1.14394e+06
 Energy received: 465454
-Energy left: 6.45709e+08 Mass of Gold: 1.51354e+06 Volume of Gold: 78357.3
+Energy left: 6.45711e+08 Mass of Gold: 1.51354e+06 Volume of Gold: 78357.3
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 23
 Length: 28 Width: 6 Height: 23 Density: 19.165 Volume: 3864 Mass: 74053.6
 Fits the window without any movements
 Energy spent: 4.90235e+06
 Energy received: 1.99471e+06
-Energy left: 6.42802e+08 Mass of Gold: 1.58759e+06 Volume of Gold: 82205
+Energy left: 6.42804e+08 Mass of Gold: 1.58759e+06 Volume of Gold: 82205
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 24
 Length: 2 Width: 1 Height: 2 Density: 19.375 Volume: 4 Mass: 77.5
 It isn`t gold
-Energy left: 6.42801e+08 Mass of Gold: 1.58759e+06 Volume of Gold: 82205
+Energy left: 6.42803e+08 Mass of Gold: 1.58759e+06 Volume of Gold: 82205
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 25
 Length: 9 Width: 6 Height: 4 Density: 19.22 Volume: 216 Mass: 4151.52
 Fits the window without any movements
 Energy spent: 274831
 Energy received: 111825
-Energy left: 6.42638e+08 Mass of Gold: 1.59174e+06 Volume of Gold: 82420.1
+Energy left: 6.4264e+08 Mass of Gold: 1.59174e+06 Volume of Gold: 82420.1
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 26
 Length: 30 Width: 26 Height: 5 Density: 19.125 Volume: 3900 Mass: 74587.5
 Fits the window after being rotated and after that turned
 Energy spent: 4.93769e+06
 Energy received: 2.00909e+06
-Energy left: 6.39709e+08 Mass of Gold: 1.66633e+06 Volume of Gold: 86303.7
+Energy left: 6.39711e+08 Mass of Gold: 1.66633e+06 Volume of Gold: 86303.7
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 27
 Length: 28 Width: 11 Height: 18 Density: 19.345 Volume: 5544 Mass: 107249
 Fits the window without any movements
 Energy spent: 7.09986e+06
 Energy received: 2.88885e+06
-Energy left: 6.35498e+08 Mass of Gold: 1.77358e+06 Volume of Gold: 91824.4
+Energy left: 6.355e+08 Mass of Gold: 1.77358e+06 Volume of Gold: 91824.4
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 28
 Length: 27 Width: 16 Height: 12 Density: 19.21 Volume: 5184 Mass: 99584.6
 Fits the window without any movements
 Energy spent: 6.5925e+06
 Energy received: 2.68241e+06
-Energy left: 6.31587e+08 Mass of Gold: 1.87317e+06 Volume of Gold: 96986.6
+Energy left: 6.3159e+08 Mass of Gold: 1.87317e+06 Volume of Gold: 96986.6
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 29
 Length: 14 Width: 26 Height: 19 Density: 19.195 Volume: 6916 Mass: 132753
 Fits the window after being turned
 Energy spent: 8.78822e+06
 Energy received: 3.57582e+06
-Energy left: 6.26375e+08 Mass of Gold: 2.00592e+06 Volume of Gold: 103874
+Energy left: 6.26377e+08 Mass of Gold: 2.00592e+06 Volume of Gold: 103874
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 30
 Length: 20 Width: 21 Height: 30 Density: 19.335 Volume: 12600 Mass: 243621
 Fits the window after being turned
 Energy spent: 1.61277e+07
 Energy received: 6.56218e+06
-Energy left: 6.16809e+08 Mass of Gold: 2.24954e+06 Volume of Gold: 116421
+Energy left: 6.16811e+08 Mass of Gold: 2.24954e+06 Volume of Gold: 116421
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 31
 Length: 13 Width: 6 Height: 8 Density: 19.09 Volume: 624 Mass: 11912.2
 It isn`t gold
-Energy left: 6.16809e+08 Mass of Gold: 2.24954e+06 Volume of Gold: 116421
+Energy left: 6.16811e+08 Mass of Gold: 2.24954e+06 Volume of Gold: 116421
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 32
 Length: 2 Width: 16 Height: 17 Density: 19.085 Volume: 544 Mass: 10382.2
 It isn`t gold
-Energy left: 6.16809e+08 Mass of Gold: 2.24954e+06 Volume of Gold: 116421
+Energy left: 6.16811e+08 Mass of Gold: 2.24954e+06 Volume of Gold: 116421
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 33
 Length: 24 Width: 21 Height: 4 Density: 19.315 Volume: 2016 Mass: 38939
 Fits the window after being rotated and after that turned
 Energy spent: 2.57776e+06
 Energy received: 1.04886e+06
-Energy left: 6.15279e+08 Mass of Gold: 2.28848e+06 Volume of Gold: 118428
+Energy left: 6.15282e+08 Mass of Gold: 2.28848e+06 Volume of Gold: 118428
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 34
 Length: 15 Width: 26 Height: 20 Density: 19.2 Volume: 7800 Mass: 149760
 Fits the window after being turned
 Energy spent: 9.91411e+06
 Energy received: 4.03394e+06
-Energy left: 6.09398e+08 Mass of Gold: 2.43824e+06 Volume of Gold: 126195
+Energy left: 6.09401e+08 Mass of Gold: 2.43824e+06 Volume of Gold: 126195
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 35
 Length: 28 Width: 26 Height: 3 Density: 19.115 Volume: 2184 Mass: 41747.2
 Fits the window after being rotated and after that turned
 Energy spent: 2.76366e+06
 Energy received: 1.1245e+06
-Energy left: 6.07758e+08 Mass of Gold: 2.47999e+06 Volume of Gold: 128370
+Energy left: 6.07761e+08 Mass of Gold: 2.47999e+06 Volume of Gold: 128370
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 36
 Length: 12 Width: 1 Height: 12 Density: 19.325 Volume: 144 Mass: 2782.8
 Fits the window without any movements
 Energy spent: 184221
 Energy received: 74957.5
-Energy left: 6.07649e+08 Mass of Gold: 2.48277e+06 Volume of Gold: 128514
+Energy left: 6.07652e+08 Mass of Gold: 2.48277e+06 Volume of Gold: 128514
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 37
 Length: 29 Width: 26 Height: 4 Density: 19.12 Volume: 3016 Mass: 57665.9
 Fits the window after being rotated and after that turned
 Energy spent: 3.81748e+06
 Energy received: 1.55329e+06
-Energy left: 6.05384e+08 Mass of Gold: 2.54043e+06 Volume of Gold: 131517
+Energy left: 6.05387e+08 Mass of Gold: 2.54043e+06 Volume of Gold: 131517
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 38
 Length: 20 Width: 6 Height: 15 Density: 19.125 Volume: 1800 Mass: 34425
 Fits the window without any movements
 Energy spent: 2.27894e+06
 Energy received: 927272
-Energy left: 6.04032e+08 Mass of Gold: 2.57486e+06 Volume of Gold: 133309
+Energy left: 6.04035e+08 Mass of Gold: 2.57486e+06 Volume of Gold: 133309
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 39
 Length: 28 Width: 21 Height: 8 Density: 19.295 Volume: 4704 Mass: 90763.7
 Fits the window after being rotated and after that turned
 Energy spent: 6.00856e+06
 Energy received: 2.44481e+06
-Energy left: 6.00467e+08 Mass of Gold: 2.66562e+06 Volume of Gold: 137994
+Energy left: 6.00471e+08 Mass of Gold: 2.66562e+06 Volume of Gold: 137994
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 40
 Length: 17 Width: 16 Height: 2 Density: 19.16 Volume: 544 Mass: 10423
 Fits the window without any movements
 Energy spent: 690005
 Energy received: 280755
-Energy left: 6.00058e+08 Mass of Gold: 2.67605e+06 Volume of Gold: 138535
+Energy left: 6.00062e+08 Mass of Gold: 2.67605e+06 Volume of Gold: 138535
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 41
 Length: 24 Width: 6 Height: 19 Density: 19.145 Volume: 2736 Mass: 52380.7
 Fits the window without any movements
 Energy spent: 3.4676e+06
 Energy received: 1.41093e+06
-Energy left: 5.98001e+08 Mass of Gold: 2.72843e+06 Volume of Gold: 141260
+Energy left: 5.98005e+08 Mass of Gold: 2.72843e+06 Volume of Gold: 141260
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 42
 Length: 30 Width: 11 Height: 20 Density: 19.335 Volume: 6600 Mass: 127611
 Fits the window without any movements
 Energy spent: 8.44785e+06
 Energy received: 3.43733e+06
-Energy left: 5.9299e+08 Mass of Gold: 2.85604e+06 Volume of Gold: 147832
+Energy left: 5.92994e+08 Mass of Gold: 2.85604e+06 Volume of Gold: 147832
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 43
 Length: 13 Width: 26 Height: 18 Density: 19.19 Volume: 6084 Mass: 116752
 Fits the window after being turned
 Energy spent: 7.72898e+06
 Energy received: 3.14483e+06
-Energy left: 5.88406e+08 Mass of Gold: 2.97279e+06 Volume of Gold: 153890
+Energy left: 5.8841e+08 Mass of Gold: 2.97279e+06 Volume of Gold: 153890
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 44
 Length: 12 Width: 16 Height: 27 Density: 19.135 Volume: 5184 Mass: 99195.8
 Fits the window without any movements
 Energy spent: 6.56676e+06
 Energy received: 2.67194e+06
-Energy left: 5.84511e+08 Mass of Gold: 3.07199e+06 Volume of Gold: 159053
+Energy left: 5.84515e+08 Mass of Gold: 3.07199e+06 Volume of Gold: 159053
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 45
 Length: 14 Width: 11 Height: 4 Density: 19.265 Volume: 616 Mass: 11867.2
 Fits the window without any movements
 Energy spent: 785611
 Energy received: 319656
-Energy left: 5.84044e+08 Mass of Gold: 3.08385e+06 Volume of Gold: 159666
+Energy left: 5.84048e+08 Mass of Gold: 3.08385e+06 Volume of Gold: 159666
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 46
 Length: 5 Width: 6 Height: 30 Density: 19.2 Volume: 900 Mass: 17280
 Fits the window without any movements
 Energy spent: 1.14394e+06
 Energy received: 465454
-Energy left: 5.83366e+08 Mass of Gold: 3.10113e+06 Volume of Gold: 160562
+Energy left: 5.8337e+08 Mass of Gold: 3.10113e+06 Volume of Gold: 160562
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 47
 Length: 28 Width: 6 Height: 23 Density: 19.165 Volume: 3864 Mass: 74053.6
 Fits the window without any movements
 Energy spent: 4.90235e+06
 Energy received: 1.99471e+06
-Energy left: 5.80458e+08 Mass of Gold: 3.17519e+06 Volume of Gold: 164410
+Energy left: 5.80462e+08 Mass of Gold: 3.17519e+06 Volume of Gold: 164410
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 48
 Length: 2 Width: 1 Height: 2 Density: 19.375 Volume: 4 Mass: 77.5
 It isn`t gold
-Energy left: 5.80458e+08 Mass of Gold: 3.17519e+06 Volume of Gold: 164410
+Energy left: 5.80462e+08 Mass of Gold: 3.17519e+06 Volume of Gold: 164410
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 49
 Length: 9 Width: 6 Height: 4 Density: 19.22 Volume: 216 Mass: 4151.52
 Fits the window without any movements
 Energy spent: 274831
 Energy received: 111825
-Energy left: 5.80295e+08 Mass of Gold: 3.17934e+06 Volume of Gold: 164625
+Energy left: 5.80299e+08 Mass of Gold: 3.17934e+06 Volume of Gold: 164625
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 50
 Length: 30 Width: 26 Height: 5 Density: 19.125 Volume: 3900 Mass: 74587.5
 Fits the window after being rotated and after that turned
 Energy spent: 4.93769e+06
 Energy received: 2.00909e+06
-Energy left: 5.77365e+08 Mass of Gold: 3.25392e+06 Volume of Gold: 168509
+Energy left: 5.7737e+08 Mass of Gold: 3.25392e+06 Volume of Gold: 168509
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 51
 Length: 28 Width: 11 Height: 18 Density: 19.345 Volume: 5544 Mass: 107249
 Fits the window without any movements
 Energy spent: 7.09986e+06
 Energy received: 2.88885e+06
-Energy left: 5.73154e+08 Mass of Gold: 3.36117e+06 Volume of Gold: 174029
+Energy left: 5.73158e+08 Mass of Gold: 3.36117e+06 Volume of Gold: 174029
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 52
 Length: 27 Width: 16 Height: 12 Density: 19.21 Volume: 5184 Mass: 99584.6
 Fits the window without any movements
 Energy spent: 6.5925e+06
 Energy received: 2.68241e+06
-Energy left: 5.69244e+08 Mass of Gold: 3.46076e+06 Volume of Gold: 179192
+Energy left: 5.69248e+08 Mass of Gold: 3.46076e+06 Volume of Gold: 179192
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 53
 Length: 14 Width: 26 Height: 19 Density: 19.195 Volume: 6916 Mass: 132753
 Fits the window after being turned
 Energy spent: 8.78822e+06
 Energy received: 3.57582e+06
-Energy left: 5.64031e+08 Mass of Gold: 3.59351e+06 Volume of Gold: 186079
+Energy left: 5.64035e+08 Mass of Gold: 3.59351e+06 Volume of Gold: 186079
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 54
 Length: 20 Width: 21 Height: 30 Density: 19.335 Volume: 12600 Mass: 243621
 Fits the window after being turned
 Energy spent: 1.61277e+07
 Energy received: 6.56218e+06
-Energy left: 5.54465e+08 Mass of Gold: 3.83713e+06 Volume of Gold: 198626
+Energy left: 5.54469e+08 Mass of Gold: 3.83713e+06 Volume of Gold: 198626
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 55
 Length: 13 Width: 6 Height: 8 Density: 19.09 Volume: 624 Mass: 11912.2
 It isn`t gold
-Energy left: 5.54465e+08 Mass of Gold: 3.83713e+06 Volume of Gold: 198626
+Energy left: 5.54469e+08 Mass of Gold: 3.83713e+06 Volume of Gold: 198626
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 56
 Length: 2 Width: 16 Height: 17 Density: 19.085 Volume: 544 Mass: 10382.2
 It isn`t gold
-Energy left: 5.54465e+08 Mass of Gold: 3.83713e+06 Volume of Gold: 198626
+Energy left: 5.54469e+08 Mass of Gold: 3.83713e+06 Volume of Gold: 198626
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 57
 Length: 24 Width: 21 Height: 4 Density: 19.315 Volume: 2016 Mass: 38939
 Fits the window after being rotated and after that turned
 Energy spent: 2.57776e+06
 Energy received: 1.04886e+06
-Energy left: 5.52935e+08 Mass of Gold: 3.87607e+06 Volume of Gold: 200633
+Energy left: 5.5294e+08 Mass of Gold: 3.87607e+06 Volume of Gold: 200633
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 58
 Length: 15 Width: 26 Height: 20 Density: 19.2 Volume: 7800 Mass: 149760
 Fits the window after being turned
 Energy spent: 9.91411e+06
 Energy received: 4.03394e+06
-Energy left: 5.47055e+08 Mass of Gold: 4.02583e+06 Volume of Gold: 208400
+Energy left: 5.47059e+08 Mass of Gold: 4.02583e+06 Volume of Gold: 208400
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 59
 Length: 28 Width: 26 Height: 3 Density: 19.115 Volume: 2184 Mass: 41747.2
 Fits the window after being rotated and after that turned
 Energy spent: 2.76366e+06
 Energy received: 1.1245e+06
-Energy left: 5.45415e+08 Mass of Gold: 4.06758e+06 Volume of Gold: 210575
+Energy left: 5.4542e+08 Mass of Gold: 4.06758e+06 Volume of Gold: 210575
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 60
 Length: 12 Width: 1 Height: 12 Density: 19.325 Volume: 144 Mass: 2782.8
 Fits the window without any movements
 Energy spent: 184221
 Energy received: 74957.5
-Energy left: 5.45305e+08 Mass of Gold: 4.07036e+06 Volume of Gold: 210719
+Energy left: 5.4531e+08 Mass of Gold: 4.07036e+06 Volume of Gold: 210719
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 61
 Length: 29 Width: 26 Height: 4 Density: 19.12 Volume: 3016 Mass: 57665.9
 Fits the window after being rotated and after that turned
 Energy spent: 3.81748e+06
 Energy received: 1.55329e+06
-Energy left: 5.4304e+08 Mass of Gold: 4.12803e+06 Volume of Gold: 213722
+Energy left: 5.43046e+08 Mass of Gold: 4.12803e+06 Volume of Gold: 213722
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 62
 Length: 20 Width: 6 Height: 15 Density: 19.125 Volume: 1800 Mass: 34425
 Fits the window without any movements
 Energy spent: 2.27894e+06
 Energy received: 927272
-Energy left: 5.41688e+08 Mass of Gold: 4.16245e+06 Volume of Gold: 215514
+Energy left: 5.41694e+08 Mass of Gold: 4.16245e+06 Volume of Gold: 215514
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 63
 Length: 28 Width: 21 Height: 8 Density: 19.295 Volume: 4704 Mass: 90763.7
 Fits the window after being rotated and after that turned
 Energy spent: 6.00856e+06
 Energy received: 2.44481e+06
-Energy left: 5.38123e+08 Mass of Gold: 4.25322e+06 Volume of Gold: 220199
+Energy left: 5.38129e+08 Mass of Gold: 4.25322e+06 Volume of Gold: 220199
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 64
 Length: 17 Width: 16 Height: 2 Density: 19.16 Volume: 544 Mass: 10423
 Fits the window without any movements
 Energy spent: 690005
 Energy received: 280755
-Energy left: 5.37714e+08 Mass of Gold: 4.26364e+06 Volume of Gold: 220740
+Energy left: 5.3772e+08 Mass of Gold: 4.26364e+06 Volume of Gold: 220740
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 65
 Length: 24 Width: 6 Height: 19 Density: 19.145 Volume: 2736 Mass: 52380.7
 Fits the window without any movements
 Energy spent: 3.4676e+06
 Energy received: 1.41093e+06
-Energy left: 5.35657e+08 Mass of Gold: 4.31602e+06 Volume of Gold: 223465
+Energy left: 5.35663e+08 Mass of Gold: 4.31602e+06 Volume of Gold: 223465
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 66
 Length: 30 Width: 11 Height: 20 Density: 19.335 Volume: 6600 Mass: 127611
 Fits the window without any movements
 Energy spent: 8.44785e+06
 Energy received: 3.43733e+06
-Energy left: 5.30646e+08 Mass of Gold: 4.44363e+06 Volume of Gold: 230037
+Energy left: 5.30652e+08 Mass of Gold: 4.44363e+06 Volume of Gold: 230037
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 67
 Length: 13 Width: 26 Height: 18 Density: 19.19 Volume: 6084 Mass: 116752
 Fits the window after being turned
 Energy spent: 7.72898e+06
 Energy received: 3.14483e+06
-Energy left: 5.26062e+08 Mass of Gold: 4.56038e+06 Volume of Gold: 236095
+Energy left: 5.26068e+08 Mass of Gold: 4.56038e+06 Volume of Gold: 236095
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 68
 Length: 12 Width: 16 Height: 27 Density: 19.135 Volume: 5184 Mass: 99195.8
 Fits the window without any movements
 Energy spent: 6.56676e+06
 Energy received: 2.67194e+06
-Energy left: 5.22167e+08 Mass of Gold: 4.65958e+06 Volume of Gold: 241258
+Energy left: 5.22173e+08 Mass of Gold: 4.65958e+06 Volume of Gold: 241258
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 69
 Length: 14 Width: 11 Height: 4 Density: 19.265 Volume: 616 Mass: 11867.2
 Fits the window without any movements
 Energy spent: 785611
 Energy received: 319656
-Energy left: 5.21701e+08 Mass of Gold: 4.67145e+06 Volume of Gold: 241871
+Energy left: 5.21707e+08 Mass of Gold: 4.67145e+06 Volume of Gold: 241871
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 70
 Length: 5 Width: 6 Height: 30 Density: 19.2 Volume: 900 Mass: 17280
 Fits the window without any movements
 Energy spent: 1.14394e+06
 Energy received: 465454
-Energy left: 5.21022e+08 Mass of Gold: 4.68873e+06 Volume of Gold: 242767
+Energy left: 5.21028e+08 Mass of Gold: 4.68873e+06 Volume of Gold: 242767
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 71
 Length: 28 Width: 6 Height: 23 Density: 19.165 Volume: 3864 Mass: 74053.6
 Fits the window without any movements
 Energy spent: 4.90235e+06
 Energy received: 1.99471e+06
-Energy left: 5.18114e+08 Mass of Gold: 4.76278e+06 Volume of Gold: 246615
+Energy left: 5.1812e+08 Mass of Gold: 4.76278e+06 Volume of Gold: 246615
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 72
 Length: 2 Width: 1 Height: 2 Density: 19.375 Volume: 4 Mass: 77.5
 It isn`t gold
-Energy left: 5.18114e+08 Mass of Gold: 4.76278e+06 Volume of Gold: 246615
+Energy left: 5.1812e+08 Mass of Gold: 4.76278e+06 Volume of Gold: 246615
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 73
 Length: 9 Width: 6 Height: 4 Density: 19.22 Volume: 216 Mass: 4151.52
 Fits the window without any movements
 Energy spent: 274831
 Energy received: 111825
-Energy left: 5.17951e+08 Mass of Gold: 4.76693e+06 Volume of Gold: 246830
+Energy left: 5.17957e+08 Mass of Gold: 4.76693e+06 Volume of Gold: 246830
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 74
 Length: 30 Width: 26 Height: 5 Density: 19.125 Volume: 3900 Mass: 74587.5
 Fits the window after being rotated and after that turned
 Energy spent: 4.93769e+06
 Energy received: 2.00909e+06
-Energy left: 5.15021e+08 Mass of Gold: 4.84152e+06 Volume of Gold: 250714
+Energy left: 5.15028e+08 Mass of Gold: 4.84152e+06 Volume of Gold: 250714
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 75
 Length: 28 Width: 11 Height: 18 Density: 19.345 Volume: 5544 Mass: 107249
 Fits the window without any movements
 Energy spent: 7.09986e+06
 Energy received: 2.88885e+06
-Energy left: 5.1081e+08 Mass of Gold: 4.94877e+06 Volume of Gold: 256234
+Energy left: 5.10817e+08 Mass of Gold: 4.94877e+06 Volume of Gold: 256234
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 76
 Length: 27 Width: 16 Height: 12 Density: 19.21 Volume: 5184 Mass: 99584.6
 Fits the window without any movements
 Energy spent: 6.5925e+06
 Energy received: 2.68241e+06
-Energy left: 5.069e+08 Mass of Gold: 5.04835e+06 Volume of Gold: 261397
+Energy left: 5.06906e+08 Mass of Gold: 5.04835e+06 Volume of Gold: 261397
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 77
 Length: 14 Width: 26 Height: 19 Density: 19.195 Volume: 6916 Mass: 132753
 Fits the window after being turned
 Energy spent: 8.78822e+06
 Energy received: 3.57582e+06
-Energy left: 5.01687e+08 Mass of Gold: 5.1811e+06 Volume of Gold: 268284
+Energy left: 5.01694e+08 Mass of Gold: 5.1811e+06 Volume of Gold: 268284
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 78
 Length: 20 Width: 21 Height: 30 Density: 19.335 Volume: 12600 Mass: 243621
 Fits the window after being turned
 Energy spent: 1.61277e+07
 Energy received: 6.56218e+06
-Energy left: 4.92121e+08 Mass of Gold: 5.42472e+06 Volume of Gold: 280831
+Energy left: 4.92128e+08 Mass of Gold: 5.42472e+06 Volume of Gold: 280831
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 79
 Length: 13 Width: 6 Height: 8 Density: 19.09 Volume: 624 Mass: 11912.2
 It isn`t gold
-Energy left: 4.92121e+08 Mass of Gold: 5.42472e+06 Volume of Gold: 280831
+Energy left: 4.92128e+08 Mass of Gold: 5.42472e+06 Volume of Gold: 280831
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 80
 Length: 2 Width: 16 Height: 17 Density: 19.085 Volume: 544 Mass: 10382.2
 It isn`t gold
-Energy left: 4.92121e+08 Mass of Gold: 5.42472e+06 Volume of Gold: 280831
+Energy left: 4.92128e+08 Mass of Gold: 5.42472e+06 Volume of Gold: 280831
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 81
 Length: 24 Width: 21 Height: 4 Density: 19.315 Volume: 2016 Mass: 38939
 Fits the window after being rotated and after that turned
 Energy spent: 2.57776e+06
 Energy received: 1.04886e+06
-Energy left: 4.90591e+08 Mass of Gold: 5.46366e+06 Volume of Gold: 282838
+Energy left: 4.90598e+08 Mass of Gold: 5.46366e+06 Volume of Gold: 282838
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 82
 Length: 15 Width: 26 Height: 20 Density: 19.2 Volume: 7800 Mass: 149760
 Fits the window after being turned
 Energy spent: 9.91411e+06
 Energy received: 4.03394e+06
-Energy left: 4.84711e+08 Mass of Gold: 5.61342e+06 Volume of Gold: 290605
+Energy left: 4.84718e+08 Mass of Gold: 5.61342e+06 Volume of Gold: 290605
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 83
 Length: 28 Width: 26 Height: 3 Density: 19.115 Volume: 2184 Mass: 41747.2
 Fits the window after being rotated and after that turned
 Energy spent: 2.76366e+06
 Energy received: 1.1245e+06
-Energy left: 4.83071e+08 Mass of Gold: 5.65517e+06 Volume of Gold: 292780
+Energy left: 4.83078e+08 Mass of Gold: 5.65517e+06 Volume of Gold: 292780
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 84
 Length: 12 Width: 1 Height: 12 Density: 19.325 Volume: 144 Mass: 2782.8
 Fits the window without any movements
 Energy spent: 184221
 Energy received: 74957.5
-Energy left: 4.82961e+08 Mass of Gold: 5.65795e+06 Volume of Gold: 292924
+Energy left: 4.82969e+08 Mass of Gold: 5.65795e+06 Volume of Gold: 292924
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 85
 Length: 29 Width: 26 Height: 4 Density: 19.12 Volume: 3016 Mass: 57665.9
 Fits the window after being rotated and after that turned
 Energy spent: 3.81748e+06
 Energy received: 1.55329e+06
-Energy left: 4.80696e+08 Mass of Gold: 5.71562e+06 Volume of Gold: 295927
+Energy left: 4.80704e+08 Mass of Gold: 5.71562e+06 Volume of Gold: 295927
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 86
 Length: 20 Width: 6 Height: 15 Density: 19.125 Volume: 1800 Mass: 34425
 Fits the window without any movements
 Energy spent: 2.27894e+06
 Energy received: 927272
-Energy left: 4.79344e+08 Mass of Gold: 5.75004e+06 Volume of Gold: 297719
+Energy left: 4.79352e+08 Mass of Gold: 5.75004e+06 Volume of Gold: 297719
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 87
 Length: 28 Width: 21 Height: 8 Density: 19.295 Volume: 4704 Mass: 90763.7
 Fits the window after being rotated and after that turned
 Energy spent: 6.00856e+06
 Energy received: 2.44481e+06
-Energy left: 4.7578e+08 Mass of Gold: 5.84081e+06 Volume of Gold: 302404
+Energy left: 4.75788e+08 Mass of Gold: 5.84081e+06 Volume of Gold: 302404
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 88
 Length: 17 Width: 16 Height: 2 Density: 19.16 Volume: 544 Mass: 10423
 Fits the window without any movements
 Energy spent: 690005
 Energy received: 280755
-Energy left: 4.7537e+08 Mass of Gold: 5.85123e+06 Volume of Gold: 302945
+Energy left: 4.75378e+08 Mass of Gold: 5.85123e+06 Volume of Gold: 302945
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 89
 Length: 24 Width: 6 Height: 19 Density: 19.145 Volume: 2736 Mass: 52380.7
 Fits the window without any movements
 Energy spent: 3.4676e+06
 Energy received: 1.41093e+06
-Energy left: 4.73314e+08 Mass of Gold: 5.90361e+06 Volume of Gold: 305670
+Energy left: 4.73322e+08 Mass of Gold: 5.90361e+06 Volume of Gold: 305670
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 90
 Length: 30 Width: 11 Height: 20 Density: 19.335 Volume: 6600 Mass: 127611
 Fits the window without any movements
 Energy spent: 8.44785e+06
 Energy received: 3.43733e+06
-Energy left: 4.68303e+08 Mass of Gold: 6.03122e+06 Volume of Gold: 312242
+Energy left: 4.68311e+08 Mass of Gold: 6.03122e+06 Volume of Gold: 312242
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 91
 Length: 13 Width: 26 Height: 18 Density: 19.19 Volume: 6084 Mass: 116752
 Fits the window after being turned
 Energy spent: 7.72898e+06
 Energy received: 3.14483e+06
-Energy left: 4.63718e+08 Mass of Gold: 6.14798e+06 Volume of Gold: 318300
+Energy left: 4.63726e+08 Mass of Gold: 6.14798e+06 Volume of Gold: 318300
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 92
 Length: 12 Width: 16 Height: 27 Density: 19.135 Volume: 5184 Mass: 99195.8
 Fits the window without any movements
 Energy spent: 6.56676e+06
 Energy received: 2.67194e+06
-Energy left: 4.59823e+08 Mass of Gold: 6.24717e+06 Volume of Gold: 323463
+Energy left: 4.59831e+08 Mass of Gold: 6.24717e+06 Volume of Gold: 323463
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 93
 Length: 14 Width: 11 Height: 4 Density: 19.265 Volume: 616 Mass: 11867.2
 Fits the window without any movements
 Energy spent: 785611
 Energy received: 319656
-Energy left: 4.59357e+08 Mass of Gold: 6.25904e+06 Volume of Gold: 324076
+Energy left: 4.59365e+08 Mass of Gold: 6.25904e+06 Volume of Gold: 324076
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 94
 Length: 5 Width: 6 Height: 30 Density: 19.2 Volume: 900 Mass: 17280
 Fits the window without any movements
 Energy spent: 1.14394e+06
 Energy received: 465454
-Energy left: 4.58678e+08 Mass of Gold: 6.27632e+06 Volume of Gold: 324972
+Energy left: 4.58686e+08 Mass of Gold: 6.27632e+06 Volume of Gold: 324972
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 95
 Length: 28 Width: 6 Height: 23 Density: 19.165 Volume: 3864 Mass: 74053.6
 Fits the window without any movements
 Energy spent: 4.90235e+06
 Energy received: 1.99471e+06
-Energy left: 4.55771e+08 Mass of Gold: 6.35037e+06 Volume of Gold: 328820
+Energy left: 4.55779e+08 Mass of Gold: 6.35037e+06 Volume of Gold: 328820
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 96
 Length: 2 Width: 1 Height: 2 Density: 19.375 Volume: 4 Mass: 77.5
 It isn`t gold
-Energy left: 4.55771e+08 Mass of Gold: 6.35037e+06 Volume of Gold: 328820
+Energy left: 4.55779e+08 Mass of Gold: 6.35037e+06 Volume of Gold: 328820
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 97
 Length: 9 Width: 6 Height: 4 Density: 19.22 Volume: 216 Mass: 4151.52
 Fits the window without any movements
 Energy spent: 274831
 Energy received: 111825
-Energy left: 4.55607e+08 Mass of Gold: 6.35452e+06 Volume of Gold: 329035
+Energy left: 4.55615e+08 Mass of Gold: 6.35452e+06 Volume of Gold: 329035
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 98
 Length: 30 Width: 26 Height: 5 Density: 19.125 Volume: 3900 Mass: 74587.5
 Fits the window after being rotated and after that turned
 Energy spent: 4.93769e+06
 Energy received: 2.00909e+06
-Energy left: 4.52678e+08 Mass of Gold: 6.42911e+06 Volume of Gold: 332919
+Energy left: 4.52686e+08 Mass of Gold: 6.42911e+06 Volume of Gold: 332919
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 99
 Length: 28 Width: 11 Height: 18 Density: 19.345 Volume: 5544 Mass: 107249
 Fits the window without any movements
 Energy spent: 7.09986e+06
 Energy received: 2.88885e+06
-Energy left: 4.48467e+08 Mass of Gold: 6.53636e+06 Volume of Gold: 338439
+Energy left: 4.48475e+08 Mass of Gold: 6.53636e+06 Volume of Gold: 338439
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 100
 Length: 27 Width: 16 Height: 12 Density: 19.21 Volume: 5184 Mass: 99584.6
 Fits the window without any movements
 Energy spent: 6.5925e+06
 Energy received: 2.68241e+06
-Energy left: 4.44556e+08 Mass of Gold: 6.63594e+06 Volume of Gold: 343602
+Energy left: 4.44565e+08 Mass of Gold: 6.63594e+06 Volume of Gold: 343602
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 101
 Length: 14 Width: 26 Height: 19 Density: 19.195 Volume: 6916 Mass: 132753
 Fits the window after being turned
 Energy spent: 8.78822e+06
 Energy received: 3.57582e+06
-Energy left: 4.39344e+08 Mass of Gold: 6.7687e+06 Volume of Gold: 350489
+Energy left: 4.39352e+08 Mass of Gold: 6.7687e+06 Volume of Gold: 350489
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 102
 Length: 20 Width: 21 Height: 30 Density: 19.335 Volume: 12600 Mass: 243621
 Fits the window after being turned
 Energy spent: 1.61277e+07
 Energy received: 6.56218e+06
-Energy left: 4.29778e+08 Mass of Gold: 7.01232e+06 Volume of Gold: 363036
+Energy left: 4.29786e+08 Mass of Gold: 7.01232e+06 Volume of Gold: 363036
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 103
 Length: 13 Width: 6 Height: 8 Density: 19.09 Volume: 624 Mass: 11912.2
 It isn`t gold
-Energy left: 4.29778e+08 Mass of Gold: 7.01232e+06 Volume of Gold: 363036
+Energy left: 4.29786e+08 Mass of Gold: 7.01232e+06 Volume of Gold: 363036
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 104
 Length: 2 Width: 16 Height: 17 Density: 19.085 Volume: 544 Mass: 10382.2
 It isn`t gold
-Energy left: 4.29778e+08 Mass of Gold: 7.01232e+06 Volume of Gold: 363036
+Energy left: 4.29786e+08 Mass of Gold: 7.01232e+06 Volume of Gold: 363036
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 105
 Length: 24 Width: 21 Height: 4 Density: 19.315 Volume: 2016 Mass: 38939
 Fits the window after being rotated and after that turned
 Energy spent: 2.57776e+06
 Energy received: 1.04886e+06
-Energy left: 4.28248e+08 Mass of Gold: 7.05126e+06 Volume of Gold: 365043
+Energy left: 4.28257e+08 Mass of Gold: 7.05126e+06 Volume of Gold: 365043
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 106
 Length: 15 Width: 26 Height: 20 Density: 19.2 Volume: 7800 Mass: 149760
 Fits the window after being turned
 Energy spent: 9.91411e+06
 Energy received: 4.03394e+06
-Energy left: 4.22367e+08 Mass of Gold: 7.20102e+06 Volume of Gold: 372810
+Energy left: 4.22376e+08 Mass of Gold: 7.20102e+06 Volume of Gold: 372810
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 107
 Length: 28 Width: 26 Height: 3 Density: 19.115 Volume: 2184 Mass: 41747.2
 Fits the window after being rotated and after that turned
 Energy spent: 2.76366e+06
 Energy received: 1.1245e+06
-Energy left: 4.20727e+08 Mass of Gold: 7.24276e+06 Volume of Gold: 374985
+Energy left: 4.20736e+08 Mass of Gold: 7.24276e+06 Volume of Gold: 374985
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 108
 Length: 12 Width: 1 Height: 12 Density: 19.325 Volume: 144 Mass: 2782.8
 Fits the window without any movements
 Energy spent: 184221
 Energy received: 74957.5
-Energy left: 4.20618e+08 Mass of Gold: 7.24555e+06 Volume of Gold: 375129
+Energy left: 4.20627e+08 Mass of Gold: 7.24555e+06 Volume of Gold: 375129
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 109
 Length: 29 Width: 26 Height: 4 Density: 19.12 Volume: 3016 Mass: 57665.9
 Fits the window after being rotated and after that turned
 Energy spent: 3.81748e+06
 Energy received: 1.55329e+06
-Energy left: 4.18353e+08 Mass of Gold: 7.30321e+06 Volume of Gold: 378132
+Energy left: 4.18362e+08 Mass of Gold: 7.30321e+06 Volume of Gold: 378132
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 110
 Length: 20 Width: 6 Height: 15 Density: 19.125 Volume: 1800 Mass: 34425
 Fits the window without any movements
 Energy spent: 2.27894e+06
 Energy received: 927272
-Energy left: 4.17001e+08 Mass of Gold: 7.33764e+06 Volume of Gold: 379924
+Energy left: 4.1701e+08 Mass of Gold: 7.33764e+06 Volume of Gold: 379924
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 111
 Length: 28 Width: 21 Height: 8 Density: 19.295 Volume: 4704 Mass: 90763.7
 Fits the window after being rotated and after that turned
 Energy spent: 6.00856e+06
 Energy received: 2.44481e+06
-Energy left: 4.13436e+08 Mass of Gold: 7.4284e+06 Volume of Gold: 384609
+Energy left: 4.13446e+08 Mass of Gold: 7.4284e+06 Volume of Gold: 384609
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 112
 Length: 17 Width: 16 Height: 2 Density: 19.16 Volume: 544 Mass: 10423
 Fits the window without any movements
 Energy spent: 690005
 Energy received: 280755
-Energy left: 4.13027e+08 Mass of Gold: 7.43882e+06 Volume of Gold: 385150
+Energy left: 4.13037e+08 Mass of Gold: 7.43882e+06 Volume of Gold: 385150
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 113
 Length: 24 Width: 6 Height: 19 Density: 19.145 Volume: 2736 Mass: 52380.7
 Fits the window without any movements
 Energy spent: 3.4676e+06
 Energy received: 1.41093e+06
-Energy left: 4.1097e+08 Mass of Gold: 7.4912e+06 Volume of Gold: 387875
+Energy left: 4.1098e+08 Mass of Gold: 7.4912e+06 Volume of Gold: 387875
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 114
 Length: 30 Width: 11 Height: 20 Density: 19.335 Volume: 6600 Mass: 127611
 Fits the window without any movements
 Energy spent: 8.44785e+06
 Energy received: 3.43733e+06
-Energy left: 4.05959e+08 Mass of Gold: 7.61882e+06 Volume of Gold: 394447
+Energy left: 4.05969e+08 Mass of Gold: 7.61882e+06 Volume of Gold: 394447
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 115
 Length: 13 Width: 26 Height: 18 Density: 19.19 Volume: 6084 Mass: 116752
 Fits the window after being turned
 Energy spent: 7.72898e+06
 Energy received: 3.14483e+06
-Energy left: 4.01375e+08 Mass of Gold: 7.73557e+06 Volume of Gold: 400505
+Energy left: 4.01385e+08 Mass of Gold: 7.73557e+06 Volume of Gold: 400505
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 116
 Length: 12 Width: 16 Height: 27 Density: 19.135 Volume: 5184 Mass: 99195.8
 Fits the window without any movements
 Energy spent: 6.56676e+06
 Energy received: 2.67194e+06
-Energy left: 3.9748e+08 Mass of Gold: 7.83476e+06 Volume of Gold: 405668
+Energy left: 3.9749e+08 Mass of Gold: 7.83476e+06 Volume of Gold: 405668
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 117
 Length: 14 Width: 11 Height: 4 Density: 19.265 Volume: 616 Mass: 11867.2
 Fits the window without any movements
 Energy spent: 785611
 Energy received: 319656
-Energy left: 3.97014e+08 Mass of Gold: 7.84663e+06 Volume of Gold: 406281
+Energy left: 3.97024e+08 Mass of Gold: 7.84663e+06 Volume of Gold: 406281
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 118
 Length: 5 Width: 6 Height: 30 Density: 19.2 Volume: 900 Mass: 17280
 Fits the window without any movements
 Energy spent: 1.14394e+06
 Energy received: 465454
-Energy left: 3.96335e+08 Mass of Gold: 7.86391e+06 Volume of Gold: 407177
+Energy left: 3.96345e+08 Mass of Gold: 7.86391e+06 Volume of Gold: 407177
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 119
 Length: 28 Width: 6 Height: 23 Density: 19.165 Volume: 3864 Mass: 74053.6
 Fits the window without any movements
 Energy spent: 4.90235e+06
 Energy received: 1.99471e+06
-Energy left: 3.93427e+08 Mass of Gold: 7.93796e+06 Volume of Gold: 411025
+Energy left: 3.93437e+08 Mass of Gold: 7.93796e+06 Volume of Gold: 411025
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 120
 Length: 2 Width: 1 Height: 2 Density: 19.375 Volume: 4 Mass: 77.5
 It isn`t gold
-Energy left: 3.93427e+08 Mass of Gold: 7.93796e+06 Volume of Gold: 411025
+Energy left: 3.93437e+08 Mass of Gold: 7.93796e+06 Volume of Gold: 411025
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 121
 Length: 9 Width: 6 Height: 4 Density: 19.22 Volume: 216 Mass: 4151.52
 Fits the window without any movements
 Energy spent: 274831
 Energy received: 111825
-Energy left: 3.93264e+08 Mass of Gold: 7.94212e+06 Volume of Gold: 411240
+Energy left: 3.93274e+08 Mass of Gold: 7.94212e+06 Volume of Gold: 411240
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 122
 Length: 30 Width: 26 Height: 5 Density: 19.125 Volume: 3900 Mass: 74587.5
 Fits the window after being rotated and after that turned
 Energy spent: 4.93769e+06
 Energy received: 2.00909e+06
-Energy left: 3.90334e+08 Mass of Gold: 8.0167e+06 Volume of Gold: 415124
+Energy left: 3.90345e+08 Mass of Gold: 8.0167e+06 Volume of Gold: 415124
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 123
 Length: 28 Width: 11 Height: 18 Density: 19.345 Volume: 5544 Mass: 107249
 Fits the window without any movements
 Energy spent: 7.09986e+06
 Energy received: 2.88885e+06
-Energy left: 3.86123e+08 Mass of Gold: 8.12395e+06 Volume of Gold: 420644
+Energy left: 3.86133e+08 Mass of Gold: 8.12395e+06 Volume of Gold: 420644
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 124
 Length: 27 Width: 16 Height: 12 Density: 19.21 Volume: 5184 Mass: 99584.6
 Fits the window without any movements
 Energy spent: 6.5925e+06
 Energy received: 2.68241e+06
-Energy left: 3.82213e+08 Mass of Gold: 8.22354e+06 Volume of Gold: 425807
+Energy left: 3.82223e+08 Mass of Gold: 8.22354e+06 Volume of Gold: 425807
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 125
 Length: 14 Width: 26 Height: 19 Density: 19.195 Volume: 6916 Mass: 132753
 Fits the window after being turned
 Energy spent: 8.78822e+06
 Energy received: 3.57582e+06
-Energy left: 3.77e+08 Mass of Gold: 8.35629e+06 Volume of Gold: 432694
+Energy left: 3.7701e+08 Mass of Gold: 8.35629e+06 Volume of Gold: 432694
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 126
 Length: 20 Width: 21 Height: 30 Density: 19.335 Volume: 12600 Mass: 243621
 Fits the window after being turned
 Energy spent: 1.61277e+07
 Energy received: 6.56218e+06
-Energy left: 3.67434e+08 Mass of Gold: 8.59991e+06 Volume of Gold: 445241
+Energy left: 3.67445e+08 Mass of Gold: 8.59991e+06 Volume of Gold: 445241
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 127
 Length: 13 Width: 6 Height: 8 Density: 19.09 Volume: 624 Mass: 11912.2
 It isn`t gold
-Energy left: 3.67434e+08 Mass of Gold: 8.59991e+06 Volume of Gold: 445241
+Energy left: 3.67444e+08 Mass of Gold: 8.59991e+06 Volume of Gold: 445241
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 128
 Length: 2 Width: 16 Height: 17 Density: 19.085 Volume: 544 Mass: 10382.2
 It isn`t gold
-Energy left: 3.67434e+08 Mass of Gold: 8.59991e+06 Volume of Gold: 445241
+Energy left: 3.67444e+08 Mass of Gold: 8.59991e+06 Volume of Gold: 445241
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 129
 Length: 24 Width: 21 Height: 4 Density: 19.315 Volume: 2016 Mass: 38939
 Fits the window after being rotated and after that turned
 Energy spent: 2.57776e+06
 Energy received: 1.04886e+06
-Energy left: 3.65904e+08 Mass of Gold: 8.63885e+06 Volume of Gold: 447248
+Energy left: 3.65915e+08 Mass of Gold: 8.63885e+06 Volume of Gold: 447248
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 130
 Length: 15 Width: 26 Height: 20 Density: 19.2 Volume: 7800 Mass: 149760
 Fits the window after being turned
 Energy spent: 9.91411e+06
 Energy received: 4.03394e+06
-Energy left: 3.60024e+08 Mass of Gold: 8.78861e+06 Volume of Gold: 455015
+Energy left: 3.60034e+08 Mass of Gold: 8.78861e+06 Volume of Gold: 455015
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 131
 Length: 28 Width: 26 Height: 3 Density: 19.115 Volume: 2184 Mass: 41747.2
 Fits the window after being rotated and after that turned
 Energy spent: 2.76366e+06
 Energy received: 1.1245e+06
-Energy left: 3.58384e+08 Mass of Gold: 8.83036e+06 Volume of Gold: 457190
+Energy left: 3.58395e+08 Mass of Gold: 8.83036e+06 Volume of Gold: 457190
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 132
 Length: 12 Width: 1 Height: 12 Density: 19.325 Volume: 144 Mass: 2782.8
 Fits the window without any movements
 Energy spent: 184221
 Energy received: 74957.5
-Energy left: 3.58274e+08 Mass of Gold: 8.83314e+06 Volume of Gold: 457334
+Energy left: 3.58285e+08 Mass of Gold: 8.83314e+06 Volume of Gold: 457334
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 133
 Length: 29 Width: 26 Height: 4 Density: 19.12 Volume: 3016 Mass: 57665.9
 Fits the window after being rotated and after that turned
 Energy spent: 3.81748e+06
 Energy received: 1.55329e+06
-Energy left: 3.56009e+08 Mass of Gold: 8.89081e+06 Volume of Gold: 460337
+Energy left: 3.56021e+08 Mass of Gold: 8.89081e+06 Volume of Gold: 460337
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 134
 Length: 20 Width: 6 Height: 15 Density: 19.125 Volume: 1800 Mass: 34425
 Fits the window without any movements
 Energy spent: 2.27894e+06
 Energy received: 927272
-Energy left: 3.54657e+08 Mass of Gold: 8.92523e+06 Volume of Gold: 462129
+Energy left: 3.54669e+08 Mass of Gold: 8.92523e+06 Volume of Gold: 462129
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 135
 Length: 28 Width: 21 Height: 8 Density: 19.295 Volume: 4704 Mass: 90763.7
 Fits the window after being rotated and after that turned
 Energy spent: 6.00856e+06
 Energy received: 2.44481e+06
-Energy left: 3.51093e+08 Mass of Gold: 9.01599e+06 Volume of Gold: 466814
+Energy left: 3.51105e+08 Mass of Gold: 9.01599e+06 Volume of Gold: 466814
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 136
 Length: 17 Width: 16 Height: 2 Density: 19.16 Volume: 544 Mass: 10423
 Fits the window without any movements
 Energy spent: 690005
 Energy received: 280755
-Energy left: 3.50683e+08 Mass of Gold: 9.02642e+06 Volume of Gold: 467355
+Energy left: 3.50695e+08 Mass of Gold: 9.02642e+06 Volume of Gold: 467355
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 137
 Length: 24 Width: 6 Height: 19 Density: 19.145 Volume: 2736 Mass: 52380.7
 Fits the window without any movements
 Energy spent: 3.4676e+06
 Energy received: 1.41093e+06
-Energy left: 3.48626e+08 Mass of Gold: 9.0788e+06 Volume of Gold: 470080
+Energy left: 3.48638e+08 Mass of Gold: 9.0788e+06 Volume of Gold: 470080
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 138
 Length: 30 Width: 11 Height: 20 Density: 19.335 Volume: 6600 Mass: 127611
 Fits the window without any movements
 Energy spent: 8.44785e+06
 Energy received: 3.43733e+06
-Energy left: 3.43615e+08 Mass of Gold: 9.20641e+06 Volume of Gold: 476652
+Energy left: 3.43627e+08 Mass of Gold: 9.20641e+06 Volume of Gold: 476652
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 139
 Length: 13 Width: 26 Height: 18 Density: 19.19 Volume: 6084 Mass: 116752
 Fits the window after being turned
 Energy spent: 7.72898e+06
 Energy received: 3.14483e+06
-Energy left: 3.39031e+08 Mass of Gold: 9.32316e+06 Volume of Gold: 482711
+Energy left: 3.39043e+08 Mass of Gold: 9.32316e+06 Volume of Gold: 482711
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 140
 Length: 12 Width: 16 Height: 27 Density: 19.135 Volume: 5184 Mass: 99195.8
 Fits the window without any movements
 Energy spent: 6.56676e+06
 Energy received: 2.67194e+06
-Energy left: 3.35136e+08 Mass of Gold: 9.42236e+06 Volume of Gold: 487873
+Energy left: 3.35148e+08 Mass of Gold: 9.42236e+06 Volume of Gold: 487873
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 141
 Length: 14 Width: 11 Height: 4 Density: 19.265 Volume: 616 Mass: 11867.2
 Fits the window without any movements
 Energy spent: 785611
 Energy received: 319656
-Energy left: 3.3467e+08 Mass of Gold: 9.43422e+06 Volume of Gold: 488486
+Energy left: 3.34682e+08 Mass of Gold: 9.43422e+06 Volume of Gold: 488486
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 142
 Length: 5 Width: 6 Height: 30 Density: 19.2 Volume: 900 Mass: 17280
 Fits the window without any movements
 Energy spent: 1.14394e+06
 Energy received: 465454
-Energy left: 3.33991e+08 Mass of Gold: 9.4515e+06 Volume of Gold: 489382
+Energy left: 3.34003e+08 Mass of Gold: 9.4515e+06 Volume of Gold: 489382
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 143
 Length: 28 Width: 6 Height: 23 Density: 19.165 Volume: 3864 Mass: 74053.6
 Fits the window without any movements
 Energy spent: 4.90235e+06
 Energy received: 1.99471e+06
-Energy left: 3.31083e+08 Mass of Gold: 9.52556e+06 Volume of Gold: 493230
+Energy left: 3.31095e+08 Mass of Gold: 9.52556e+06 Volume of Gold: 493230
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 144
 Length: 2 Width: 1 Height: 2 Density: 19.375 Volume: 4 Mass: 77.5
 It isn`t gold
-Energy left: 3.31083e+08 Mass of Gold: 9.52556e+06 Volume of Gold: 493230
+Energy left: 3.31095e+08 Mass of Gold: 9.52556e+06 Volume of Gold: 493230
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 145
 Length: 9 Width: 6 Height: 4 Density: 19.22 Volume: 216 Mass: 4151.52
 Fits the window without any movements
 Energy spent: 274831
 Energy received: 111825
-Energy left: 3.3092e+08 Mass of Gold: 9.52971e+06 Volume of Gold: 493445
+Energy left: 3.30932e+08 Mass of Gold: 9.52971e+06 Volume of Gold: 493445
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 146
 Length: 30 Width: 26 Height: 5 Density: 19.125 Volume: 3900 Mass: 74587.5
 Fits the window after being rotated and after that turned
 Energy spent: 4.93769e+06
 Energy received: 2.00909e+06
-Energy left: 3.27991e+08 Mass of Gold: 9.6043e+06 Volume of Gold: 497329
+Energy left: 3.28003e+08 Mass of Gold: 9.6043e+06 Volume of Gold: 497329
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 147
 Length: 28 Width: 11 Height: 18 Density: 19.345 Volume: 5544 Mass: 107249
 Fits the window without any movements
 Energy spent: 7.09986e+06
 Energy received: 2.88885e+06
-Energy left: 3.23779e+08 Mass of Gold: 9.71155e+06 Volume of Gold: 502850
+Energy left: 3.23792e+08 Mass of Gold: 9.71155e+06 Volume of Gold: 502850
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 148
 Length: 27 Width: 16 Height: 12 Density: 19.21 Volume: 5184 Mass: 99584.6
 Fits the window without any movements
 Energy spent: 6.5925e+06
 Energy received: 2.68241e+06
-Energy left: 3.19869e+08 Mass of Gold: 9.81113e+06 Volume of Gold: 508012
+Energy left: 3.19881e+08 Mass of Gold: 9.81113e+06 Volume of Gold: 508012
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 149
 Length: 14 Width: 26 Height: 19 Density: 19.195 Volume: 6916 Mass: 132753
 Fits the window after being turned
 Energy spent: 8.78822e+06
 Energy received: 3.57582e+06
-Energy left: 3.14656e+08 Mass of Gold: 9.94388e+06 Volume of Gold: 514899
+Energy left: 3.14669e+08 Mass of Gold: 9.94388e+06 Volume of Gold: 514899
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 150
 Length: 20 Width: 21 Height: 30 Density: 19.335 Volume: 12600 Mass: 243621
 Fits the window after being turned
 Energy spent: 1.61277e+07
 Energy received: 6.56218e+06
-Energy left: 3.0509e+08 Mass of Gold: 1.01875e+07 Volume of Gold: 527446
+Energy left: 3.05103e+08 Mass of Gold: 1.01875e+07 Volume of Gold: 527446
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 151
 Length: 13 Width: 6 Height: 8 Density: 19.09 Volume: 624 Mass: 11912.2
 It isn`t gold
-Energy left: 3.0509e+08 Mass of Gold: 1.01875e+07 Volume of Gold: 527446
+Energy left: 3.05103e+08 Mass of Gold: 1.01875e+07 Volume of Gold: 527446
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 152
 Length: 2 Width: 16 Height: 17 Density: 19.085 Volume: 544 Mass: 10382.2
 It isn`t gold
-Energy left: 3.0509e+08 Mass of Gold: 1.01875e+07 Volume of Gold: 527446
+Energy left: 3.05103e+08 Mass of Gold: 1.01875e+07 Volume of Gold: 527446
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 153
 Length: 24 Width: 21 Height: 4 Density: 19.315 Volume: 2016 Mass: 38939
 Fits the window after being rotated and after that turned
 Energy spent: 2.57776e+06
 Energy received: 1.04886e+06
-Energy left: 3.0356e+08 Mass of Gold: 1.02264e+07 Volume of Gold: 529453
+Energy left: 3.03573e+08 Mass of Gold: 1.02264e+07 Volume of Gold: 529453
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 154
 Length: 15 Width: 26 Height: 20 Density: 19.2 Volume: 7800 Mass: 149760
 Fits the window after being turned
 Energy spent: 9.91411e+06
 Energy received: 4.03394e+06
-Energy left: 2.9768e+08 Mass of Gold: 1.03762e+07 Volume of Gold: 537220
+Energy left: 2.97693e+08 Mass of Gold: 1.03762e+07 Volume of Gold: 537220
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 155
 Length: 28 Width: 26 Height: 3 Density: 19.115 Volume: 2184 Mass: 41747.2
 Fits the window after being rotated and after that turned
 Energy spent: 2.76366e+06
 Energy received: 1.1245e+06
-Energy left: 2.9604e+08 Mass of Gold: 1.04179e+07 Volume of Gold: 539395
+Energy left: 2.96053e+08 Mass of Gold: 1.04179e+07 Volume of Gold: 539395
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 156
 Length: 12 Width: 1 Height: 12 Density: 19.325 Volume: 144 Mass: 2782.8
 Fits the window without any movements
 Energy spent: 184221
 Energy received: 74957.5
-Energy left: 2.9593e+08 Mass of Gold: 1.04207e+07 Volume of Gold: 539539
+Energy left: 2.95944e+08 Mass of Gold: 1.04207e+07 Volume of Gold: 539539
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 157
 Length: 29 Width: 26 Height: 4 Density: 19.12 Volume: 3016 Mass: 57665.9
 Fits the window after being rotated and after that turned
 Energy spent: 3.81748e+06
 Energy received: 1.55329e+06
-Energy left: 2.93665e+08 Mass of Gold: 1.04784e+07 Volume of Gold: 542542
+Energy left: 2.93679e+08 Mass of Gold: 1.04784e+07 Volume of Gold: 542542
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 158
 Length: 20 Width: 6 Height: 15 Density: 19.125 Volume: 1800 Mass: 34425
 Fits the window without any movements
 Energy spent: 2.27894e+06
 Energy received: 927272
-Energy left: 2.92314e+08 Mass of Gold: 1.05128e+07 Volume of Gold: 544334
+Energy left: 2.92327e+08 Mass of Gold: 1.05128e+07 Volume of Gold: 544334
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 159
 Length: 28 Width: 21 Height: 8 Density: 19.295 Volume: 4704 Mass: 90763.7
 Fits the window after being rotated and after that turned
 Energy spent: 6.00856e+06
 Energy received: 2.44481e+06
-Energy left: 2.88749e+08 Mass of Gold: 1.06036e+07 Volume of Gold: 549019
+Energy left: 2.88763e+08 Mass of Gold: 1.06036e+07 Volume of Gold: 549019
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 160
 Length: 17 Width: 16 Height: 2 Density: 19.16 Volume: 544 Mass: 10423
 Fits the window without any movements
 Energy spent: 690005
 Energy received: 280755
-Energy left: 2.88339e+08 Mass of Gold: 1.0614e+07 Volume of Gold: 549560
+Energy left: 2.88353e+08 Mass of Gold: 1.0614e+07 Volume of Gold: 549560
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 161
 Length: 24 Width: 6 Height: 19 Density: 19.145 Volume: 2736 Mass: 52380.7
 Fits the window without any movements
 Energy spent: 3.4676e+06
 Energy received: 1.41093e+06
-Energy left: 2.86283e+08 Mass of Gold: 1.06664e+07 Volume of Gold: 552285
+Energy left: 2.86297e+08 Mass of Gold: 1.06664e+07 Volume of Gold: 552285
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 162
 Length: 30 Width: 11 Height: 20 Density: 19.335 Volume: 6600 Mass: 127611
 Fits the window without any movements
 Energy spent: 8.44785e+06
 Energy received: 3.43733e+06
-Energy left: 2.81272e+08 Mass of Gold: 1.0794e+07 Volume of Gold: 558857
+Energy left: 2.81286e+08 Mass of Gold: 1.0794e+07 Volume of Gold: 558857
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 163
 Length: 13 Width: 26 Height: 18 Density: 19.19 Volume: 6084 Mass: 116752
 Fits the window after being turned
 Energy spent: 7.72898e+06
 Energy received: 3.14483e+06
-Energy left: 2.76687e+08 Mass of Gold: 1.09108e+07 Volume of Gold: 564916
+Energy left: 2.76701e+08 Mass of Gold: 1.09108e+07 Volume of Gold: 564916
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 164
 Length: 12 Width: 16 Height: 27 Density: 19.135 Volume: 5184 Mass: 99195.8
 Fits the window without any movements
 Energy spent: 6.56676e+06
 Energy received: 2.67194e+06
-Energy left: 2.72792e+08 Mass of Gold: 1.10099e+07 Volume of Gold: 570078
+Energy left: 2.72806e+08 Mass of Gold: 1.10099e+07 Volume of Gold: 570078
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 165
 Length: 14 Width: 11 Height: 4 Density: 19.265 Volume: 616 Mass: 11867.2
 Fits the window without any movements
 Energy spent: 785611
 Energy received: 319656
-Energy left: 2.72326e+08 Mass of Gold: 1.10218e+07 Volume of Gold: 570691
+Energy left: 2.7234e+08 Mass of Gold: 1.10218e+07 Volume of Gold: 570691
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 166
 Length: 5 Width: 6 Height: 30 Density: 19.2 Volume: 900 Mass: 17280
 Fits the window without any movements
 Energy spent: 1.14394e+06
 Energy received: 465454
-Energy left: 2.71648e+08 Mass of Gold: 1.10391e+07 Volume of Gold: 571587
+Energy left: 2.71662e+08 Mass of Gold: 1.10391e+07 Volume of Gold: 571587
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 167
 Length: 28 Width: 6 Height: 23 Density: 19.165 Volume: 3864 Mass: 74053.6
 Fits the window without any movements
 Energy spent: 4.90235e+06
 Energy received: 1.99471e+06
-Energy left: 2.6874e+08 Mass of Gold: 1.11132e+07 Volume of Gold: 575435
+Energy left: 2.68754e+08 Mass of Gold: 1.11132e+07 Volume of Gold: 575435
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 168
 Length: 2 Width: 1 Height: 2 Density: 19.375 Volume: 4 Mass: 77.5
 It isn`t gold
-Energy left: 2.6874e+08 Mass of Gold: 1.11132e+07 Volume of Gold: 575435
+Energy left: 2.68754e+08 Mass of Gold: 1.11132e+07 Volume of Gold: 575435
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 169
 Length: 9 Width: 6 Height: 4 Density: 19.22 Volume: 216 Mass: 4151.52
 Fits the window without any movements
 Energy spent: 274831
 Energy received: 111825
-Energy left: 2.68576e+08 Mass of Gold: 1.11173e+07 Volume of Gold: 575650
+Energy left: 2.6859e+08 Mass of Gold: 1.11173e+07 Volume of Gold: 575650
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 170
 Length: 30 Width: 26 Height: 5 Density: 19.125 Volume: 3900 Mass: 74587.5
 Fits the window after being rotated and after that turned
 Energy spent: 4.93769e+06
 Energy received: 2.00909e+06
-Energy left: 2.65647e+08 Mass of Gold: 1.11919e+07 Volume of Gold: 579534
+Energy left: 2.65661e+08 Mass of Gold: 1.11919e+07 Volume of Gold: 579534
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 171
 Length: 28 Width: 11 Height: 18 Density: 19.345 Volume: 5544 Mass: 107249
 Fits the window without any movements
 Energy spent: 7.09986e+06
 Energy received: 2.88885e+06
-Energy left: 2.61436e+08 Mass of Gold: 1.12991e+07 Volume of Gold: 585055
+Energy left: 2.6145e+08 Mass of Gold: 1.12991e+07 Volume of Gold: 585055
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 172
 Length: 27 Width: 16 Height: 12 Density: 19.21 Volume: 5184 Mass: 99584.6
 Fits the window without any movements
 Energy spent: 6.5925e+06
 Energy received: 2.68241e+06
-Energy left: 2.57525e+08 Mass of Gold: 1.13987e+07 Volume of Gold: 590217
+Energy left: 2.5754e+08 Mass of Gold: 1.13987e+07 Volume of Gold: 590217
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 173
 Length: 14 Width: 26 Height: 19 Density: 19.195 Volume: 6916 Mass: 132753
 Fits the window after being turned
 Energy spent: 8.78822e+06
 Energy received: 3.57582e+06
-Energy left: 2.52313e+08 Mass of Gold: 1.15315e+07 Volume of Gold: 597104
+Energy left: 2.52327e+08 Mass of Gold: 1.15315e+07 Volume of Gold: 597104
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 174
 Length: 20 Width: 21 Height: 30 Density: 19.335 Volume: 12600 Mass: 243621
 Fits the window after being turned
 Energy spent: 1.61277e+07
 Energy received: 6.56218e+06
-Energy left: 2.42747e+08 Mass of Gold: 1.17751e+07 Volume of Gold: 609651
+Energy left: 2.42761e+08 Mass of Gold: 1.17751e+07 Volume of Gold: 609651
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 175
 Length: 13 Width: 6 Height: 8 Density: 19.09 Volume: 624 Mass: 11912.2
 It isn`t gold
-Energy left: 2.42747e+08 Mass of Gold: 1.17751e+07 Volume of Gold: 609651
+Energy left: 2.42761e+08 Mass of Gold: 1.17751e+07 Volume of Gold: 609651
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 176
 Length: 2 Width: 16 Height: 17 Density: 19.085 Volume: 544 Mass: 10382.2
 It isn`t gold
-Energy left: 2.42747e+08 Mass of Gold: 1.17751e+07 Volume of Gold: 609651
+Energy left: 2.42761e+08 Mass of Gold: 1.17751e+07 Volume of Gold: 609651
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 177
 Length: 24 Width: 21 Height: 4 Density: 19.315 Volume: 2016 Mass: 38939
 Fits the window after being rotated and after that turned
 Energy spent: 2.57776e+06
 Energy received: 1.04886e+06
-Energy left: 2.41217e+08 Mass of Gold: 1.1814e+07 Volume of Gold: 611658
+Energy left: 2.41232e+08 Mass of Gold: 1.1814e+07 Volume of Gold: 611658
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 178
 Length: 15 Width: 26 Height: 20 Density: 19.2 Volume: 7800 Mass: 149760
 Fits the window after being turned
 Energy spent: 9.91411e+06
 Energy received: 4.03394e+06
-Energy left: 2.35336e+08 Mass of Gold: 1.19638e+07 Volume of Gold: 619425
+Energy left: 2.35351e+08 Mass of Gold: 1.19638e+07 Volume of Gold: 619425
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 179
 Length: 28 Width: 26 Height: 3 Density: 19.115 Volume: 2184 Mass: 41747.2
 Fits the window after being rotated and after that turned
 Energy spent: 2.76366e+06
 Energy received: 1.1245e+06
-Energy left: 2.33696e+08 Mass of Gold: 1.20055e+07 Volume of Gold: 621600
+Energy left: 2.33712e+08 Mass of Gold: 1.20055e+07 Volume of Gold: 621600
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 180
 Length: 12 Width: 1 Height: 12 Density: 19.325 Volume: 144 Mass: 2782.8
 Fits the window without any movements
 Energy spent: 184221
 Energy received: 74957.5
-Energy left: 2.33587e+08 Mass of Gold: 1.20083e+07 Volume of Gold: 621744
+Energy left: 2.33602e+08 Mass of Gold: 1.20083e+07 Volume of Gold: 621744
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 181
 Length: 29 Width: 26 Height: 4 Density: 19.12 Volume: 3016 Mass: 57665.9
 Fits the window after being rotated and after that turned
 Energy spent: 3.81748e+06
 Energy received: 1.55329e+06
-Energy left: 2.31322e+08 Mass of Gold: 1.2066e+07 Volume of Gold: 624747
+Energy left: 2.31337e+08 Mass of Gold: 1.2066e+07 Volume of Gold: 624747
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 182
 Length: 20 Width: 6 Height: 15 Density: 19.125 Volume: 1800 Mass: 34425
 Fits the window without any movements
 Energy spent: 2.27894e+06
 Energy received: 927272
-Energy left: 2.2997e+08 Mass of Gold: 1.21004e+07 Volume of Gold: 626539
+Energy left: 2.29985e+08 Mass of Gold: 1.21004e+07 Volume of Gold: 626539
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 183
 Length: 28 Width: 21 Height: 8 Density: 19.295 Volume: 4704 Mass: 90763.7
 Fits the window after being rotated and after that turned
 Energy spent: 6.00856e+06
 Energy received: 2.44481e+06
-Energy left: 2.26405e+08 Mass of Gold: 1.21912e+07 Volume of Gold: 631224
+Energy left: 2.26421e+08 Mass of Gold: 1.21912e+07 Volume of Gold: 631224
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 184
 Length: 17 Width: 16 Height: 2 Density: 19.16 Volume: 544 Mass: 10423
 Fits the window without any movements
 Energy spent: 690005
 Energy received: 280755
-Energy left: 2.25996e+08 Mass of Gold: 1.22016e+07 Volume of Gold: 631765
+Energy left: 2.26012e+08 Mass of Gold: 1.22016e+07 Volume of Gold: 631765
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 185
 Length: 24 Width: 6 Height: 19 Density: 19.145 Volume: 2736 Mass: 52380.7
 Fits the window without any movements
 Energy spent: 3.4676e+06
 Energy received: 1.41093e+06
-Energy left: 2.23939e+08 Mass of Gold: 1.2254e+07 Volume of Gold: 634490
+Energy left: 2.23955e+08 Mass of Gold: 1.2254e+07 Volume of Gold: 634490
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 186
 Length: 30 Width: 11 Height: 20 Density: 19.335 Volume: 6600 Mass: 127611
 Fits the window without any movements
 Energy spent: 8.44785e+06
 Energy received: 3.43733e+06
-Energy left: 2.18928e+08 Mass of Gold: 1.23816e+07 Volume of Gold: 641062
+Energy left: 2.18944e+08 Mass of Gold: 1.23816e+07 Volume of Gold: 641062
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 187
 Length: 13 Width: 26 Height: 18 Density: 19.19 Volume: 6084 Mass: 116752
 Fits the window after being turned
 Energy spent: 7.72898e+06
 Energy received: 3.14483e+06
-Energy left: 2.14344e+08 Mass of Gold: 1.24983e+07 Volume of Gold: 647121
+Energy left: 2.1436e+08 Mass of Gold: 1.24983e+07 Volume of Gold: 647121
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 188
 Length: 12 Width: 16 Height: 27 Density: 19.135 Volume: 5184 Mass: 99195.8
 Fits the window without any movements
 Energy spent: 6.56676e+06
 Energy received: 2.67194e+06
-Energy left: 2.10449e+08 Mass of Gold: 1.25975e+07 Volume of Gold: 652283
+Energy left: 2.10465e+08 Mass of Gold: 1.25975e+07 Volume of Gold: 652283
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 189
 Length: 14 Width: 11 Height: 4 Density: 19.265 Volume: 616 Mass: 11867.2
 Fits the window without any movements
 Energy spent: 785611
 Energy received: 319656
-Energy left: 2.09983e+08 Mass of Gold: 1.26094e+07 Volume of Gold: 652896
+Energy left: 2.09999e+08 Mass of Gold: 1.26094e+07 Volume of Gold: 652896
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 190
 Length: 5 Width: 6 Height: 30 Density: 19.2 Volume: 900 Mass: 17280
 Fits the window without any movements
 Energy spent: 1.14394e+06
 Energy received: 465454
-Energy left: 2.09304e+08 Mass of Gold: 1.26267e+07 Volume of Gold: 653792
+Energy left: 2.0932e+08 Mass of Gold: 1.26267e+07 Volume of Gold: 653792
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 191
 Length: 28 Width: 6 Height: 23 Density: 19.165 Volume: 3864 Mass: 74053.6
 Fits the window without any movements
 Energy spent: 4.90235e+06
 Energy received: 1.99471e+06
-Energy left: 2.06396e+08 Mass of Gold: 1.27007e+07 Volume of Gold: 657640
+Energy left: 2.06412e+08 Mass of Gold: 1.27007e+07 Volume of Gold: 657640
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 192
 Length: 2 Width: 1 Height: 2 Density: 19.375 Volume: 4 Mass: 77.5
 It isn`t gold
-Energy left: 2.06396e+08 Mass of Gold: 1.27007e+07 Volume of Gold: 657640
+Energy left: 2.06412e+08 Mass of Gold: 1.27007e+07 Volume of Gold: 657640
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 193
 Length: 9 Width: 6 Height: 4 Density: 19.22 Volume: 216 Mass: 4151.52
 Fits the window without any movements
 Energy spent: 274831
 Energy received: 111825
-Energy left: 2.06233e+08 Mass of Gold: 1.27049e+07 Volume of Gold: 657855
+Energy left: 2.06249e+08 Mass of Gold: 1.27049e+07 Volume of Gold: 657855
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 194
 Length: 30 Width: 26 Height: 5 Density: 19.125 Volume: 3900 Mass: 74587.5
 Fits the window after being rotated and after that turned
 Energy spent: 4.93769e+06
 Energy received: 2.00909e+06
-Energy left: 2.03303e+08 Mass of Gold: 1.27795e+07 Volume of Gold: 661739
+Energy left: 2.0332e+08 Mass of Gold: 1.27795e+07 Volume of Gold: 661739
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 195
 Length: 28 Width: 11 Height: 18 Density: 19.345 Volume: 5544 Mass: 107249
 Fits the window without any movements
 Energy spent: 7.09986e+06
 Energy received: 2.88885e+06
-Energy left: 1.99092e+08 Mass of Gold: 1.28867e+07 Volume of Gold: 667260
+Energy left: 1.99108e+08 Mass of Gold: 1.28867e+07 Volume of Gold: 667260
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 196
 Length: 27 Width: 16 Height: 12 Density: 19.21 Volume: 5184 Mass: 99584.6
 Fits the window without any movements
 Energy spent: 6.5925e+06
 Energy received: 2.68241e+06
-Energy left: 1.95182e+08 Mass of Gold: 1.29863e+07 Volume of Gold: 672422
+Energy left: 1.95198e+08 Mass of Gold: 1.29863e+07 Volume of Gold: 672422
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 197
 Length: 14 Width: 26 Height: 19 Density: 19.195 Volume: 6916 Mass: 132753
 Fits the window after being turned
 Energy spent: 8.78822e+06
 Energy received: 3.57582e+06
-Energy left: 1.89969e+08 Mass of Gold: 1.31191e+07 Volume of Gold: 679309
+Energy left: 1.89985e+08 Mass of Gold: 1.31191e+07 Volume of Gold: 679309
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 198
 Length: 20 Width: 21 Height: 30 Density: 19.335 Volume: 12600 Mass: 243621
 Fits the window after being turned
 Energy spent: 1.61277e+07
 Energy received: 6.56218e+06
-Energy left: 1.80403e+08 Mass of Gold: 1.33627e+07 Volume of Gold: 691856
+Energy left: 1.8042e+08 Mass of Gold: 1.33627e+07 Volume of Gold: 691856
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 199
 Length: 13 Width: 6 Height: 8 Density: 19.09 Volume: 624 Mass: 11912.2
 It isn`t gold
-Energy left: 1.80403e+08 Mass of Gold: 1.33627e+07 Volume of Gold: 691856
+Energy left: 1.80419e+08 Mass of Gold: 1.33627e+07 Volume of Gold: 691856
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 200
 Length: 2 Width: 16 Height: 17 Density: 19.085 Volume: 544 Mass: 10382.2
 It isn`t gold
-Energy left: 1.80403e+08 Mass of Gold: 1.33627e+07 Volume of Gold: 691856
+Energy left: 1.80419e+08 Mass of Gold: 1.33627e+07 Volume of Gold: 691856
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 201
 Length: 24 Width: 21 Height: 4 Density: 19.315 Volume: 2016 Mass: 38939
 Fits the window after being rotated and after that turned
 Energy spent: 2.57776e+06
 Energy received: 1.04886e+06
-Energy left: 1.78873e+08 Mass of Gold: 1.34016e+07 Volume of Gold: 693863
+Energy left: 1.7889e+08 Mass of Gold: 1.34016e+07 Volume of Gold: 693863
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 202
 Length: 15 Width: 26 Height: 20 Density: 19.2 Volume: 7800 Mass: 149760
 Fits the window after being turned
 Energy spent: 9.91411e+06
 Energy received: 4.03394e+06
-Energy left: 1.72993e+08 Mass of Gold: 1.35514e+07 Volume of Gold: 701630
+Energy left: 1.7301e+08 Mass of Gold: 1.35514e+07 Volume of Gold: 701630
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 203
 Length: 28 Width: 26 Height: 3 Density: 19.115 Volume: 2184 Mass: 41747.2
 Fits the window after being rotated and after that turned
 Energy spent: 2.76366e+06
 Energy received: 1.1245e+06
-Energy left: 1.71353e+08 Mass of Gold: 1.35931e+07 Volume of Gold: 703805
+Energy left: 1.7137e+08 Mass of Gold: 1.35931e+07 Volume of Gold: 703805
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 204
 Length: 12 Width: 1 Height: 12 Density: 19.325 Volume: 144 Mass: 2782.8
 Fits the window without any movements
 Energy spent: 184221
 Energy received: 74957.5
-Energy left: 1.71243e+08 Mass of Gold: 1.35959e+07 Volume of Gold: 703949
+Energy left: 1.7126e+08 Mass of Gold: 1.35959e+07 Volume of Gold: 703949
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 205
 Length: 29 Width: 26 Height: 4 Density: 19.12 Volume: 3016 Mass: 57665.9
 Fits the window after being rotated and after that turned
 Energy spent: 3.81748e+06
 Energy received: 1.55329e+06
-Energy left: 1.68978e+08 Mass of Gold: 1.36536e+07 Volume of Gold: 706952
+Energy left: 1.68996e+08 Mass of Gold: 1.36536e+07 Volume of Gold: 706952
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 206
 Length: 20 Width: 6 Height: 15 Density: 19.125 Volume: 1800 Mass: 34425
 Fits the window without any movements
 Energy spent: 2.27894e+06
 Energy received: 927272
-Energy left: 1.67626e+08 Mass of Gold: 1.3688e+07 Volume of Gold: 708744
+Energy left: 1.67644e+08 Mass of Gold: 1.3688e+07 Volume of Gold: 708744
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 207
 Length: 28 Width: 21 Height: 8 Density: 19.295 Volume: 4704 Mass: 90763.7
 Fits the window after being rotated and after that turned
 Energy spent: 6.00856e+06
 Energy received: 2.44481e+06
-Energy left: 1.64062e+08 Mass of Gold: 1.37788e+07 Volume of Gold: 713429
+Energy left: 1.6408e+08 Mass of Gold: 1.37788e+07 Volume of Gold: 713429
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 208
 Length: 17 Width: 16 Height: 2 Density: 19.16 Volume: 544 Mass: 10423
 Fits the window without any movements
 Energy spent: 690005
 Energy received: 280755
-Energy left: 1.63652e+08 Mass of Gold: 1.37892e+07 Volume of Gold: 713970
+Energy left: 1.6367e+08 Mass of Gold: 1.37892e+07 Volume of Gold: 713970
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 209
 Length: 24 Width: 6 Height: 19 Density: 19.145 Volume: 2736 Mass: 52380.7
 Fits the window without any movements
 Energy spent: 3.4676e+06
 Energy received: 1.41093e+06
-Energy left: 1.61595e+08 Mass of Gold: 1.38416e+07 Volume of Gold: 716695
+Energy left: 1.61613e+08 Mass of Gold: 1.38416e+07 Volume of Gold: 716695
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 210
 Length: 30 Width: 11 Height: 20 Density: 19.335 Volume: 6600 Mass: 127611
 Fits the window without any movements
 Energy spent: 8.44785e+06
 Energy received: 3.43733e+06
-Energy left: 1.56585e+08 Mass of Gold: 1.39692e+07 Volume of Gold: 723267
+Energy left: 1.56603e+08 Mass of Gold: 1.39692e+07 Volume of Gold: 723267
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 211
 Length: 13 Width: 26 Height: 18 Density: 19.19 Volume: 6084 Mass: 116752
 Fits the window after being turned
 Energy spent: 7.72898e+06
 Energy received: 3.14483e+06
-Energy left: 1.52e+08 Mass of Gold: 1.40859e+07 Volume of Gold: 729326
+Energy left: 1.52018e+08 Mass of Gold: 1.40859e+07 Volume of Gold: 729326
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 212
 Length: 12 Width: 16 Height: 27 Density: 19.135 Volume: 5184 Mass: 99195.8
 Fits the window without any movements
 Energy spent: 6.56676e+06
 Energy received: 2.67194e+06
-Energy left: 1.48105e+08 Mass of Gold: 1.41851e+07 Volume of Gold: 734488
+Energy left: 1.48123e+08 Mass of Gold: 1.41851e+07 Volume of Gold: 734488
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 213
 Length: 14 Width: 11 Height: 4 Density: 19.265 Volume: 616 Mass: 11867.2
 Fits the window without any movements
 Energy spent: 785611
 Energy received: 319656
-Energy left: 1.47639e+08 Mass of Gold: 1.4197e+07 Volume of Gold: 735101
+Energy left: 1.47657e+08 Mass of Gold: 1.4197e+07 Volume of Gold: 735101
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 214
 Length: 5 Width: 6 Height: 30 Density: 19.2 Volume: 900 Mass: 17280
 Fits the window without any movements
 Energy spent: 1.14394e+06
 Energy received: 465454
-Energy left: 1.4696e+08 Mass of Gold: 1.42143e+07 Volume of Gold: 735997
+Energy left: 1.46978e+08 Mass of Gold: 1.42143e+07 Volume of Gold: 735997
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 215
 Length: 28 Width: 6 Height: 23 Density: 19.165 Volume: 3864 Mass: 74053.6
 Fits the window without any movements
 Energy spent: 4.90235e+06
 Energy received: 1.99471e+06
-Energy left: 1.44052e+08 Mass of Gold: 1.42883e+07 Volume of Gold: 739845
+Energy left: 1.4407e+08 Mass of Gold: 1.42883e+07 Volume of Gold: 739845
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 216
 Length: 2 Width: 1 Height: 2 Density: 19.375 Volume: 4 Mass: 77.5
 It isn`t gold
-Energy left: 1.44052e+08 Mass of Gold: 1.42883e+07 Volume of Gold: 739845
+Energy left: 1.4407e+08 Mass of Gold: 1.42883e+07 Volume of Gold: 739845
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 217
 Length: 9 Width: 6 Height: 4 Density: 19.22 Volume: 216 Mass: 4151.52
 Fits the window without any movements
 Energy spent: 274831
 Energy received: 111825
-Energy left: 1.43889e+08 Mass of Gold: 1.42925e+07 Volume of Gold: 740060
+Energy left: 1.43907e+08 Mass of Gold: 1.42925e+07 Volume of Gold: 740060
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 218
 Length: 30 Width: 26 Height: 5 Density: 19.125 Volume: 3900 Mass: 74587.5
 Fits the window after being rotated and after that turned
 Energy spent: 4.93769e+06
 Energy received: 2.00909e+06
-Energy left: 1.4096e+08 Mass of Gold: 1.43671e+07 Volume of Gold: 743944
+Energy left: 1.40978e+08 Mass of Gold: 1.43671e+07 Volume of Gold: 743944
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 219
 Length: 28 Width: 11 Height: 18 Density: 19.345 Volume: 5544 Mass: 107249
 Fits the window without any movements
 Energy spent: 7.09986e+06
 Energy received: 2.88885e+06
-Energy left: 1.36748e+08 Mass of Gold: 1.44743e+07 Volume of Gold: 749465
+Energy left: 1.36767e+08 Mass of Gold: 1.44743e+07 Volume of Gold: 749465
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 220
 Length: 27 Width: 16 Height: 12 Density: 19.21 Volume: 5184 Mass: 99584.6
 Fits the window without any movements
 Energy spent: 6.5925e+06
 Energy received: 2.68241e+06
-Energy left: 1.32838e+08 Mass of Gold: 1.45739e+07 Volume of Gold: 754627
+Energy left: 1.32856e+08 Mass of Gold: 1.45739e+07 Volume of Gold: 754627
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 221
 Length: 14 Width: 26 Height: 19 Density: 19.195 Volume: 6916 Mass: 132753
 Fits the window after being turned
 Energy spent: 8.78822e+06
 Energy received: 3.57582e+06
-Energy left: 1.27625e+08 Mass of Gold: 1.47067e+07 Volume of Gold: 761514
+Energy left: 1.27644e+08 Mass of Gold: 1.47067e+07 Volume of Gold: 761514
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 222
 Length: 20 Width: 21 Height: 30 Density: 19.335 Volume: 12600 Mass: 243621
 Fits the window after being turned
 Energy spent: 1.61277e+07
 Energy received: 6.56218e+06
-Energy left: 1.1806e+08 Mass of Gold: 1.49503e+07 Volume of Gold: 774061
+Energy left: 1.18078e+08 Mass of Gold: 1.49503e+07 Volume of Gold: 774061
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 223
 Length: 13 Width: 6 Height: 8 Density: 19.09 Volume: 624 Mass: 11912.2
 It isn`t gold
-Energy left: 1.18059e+08 Mass of Gold: 1.49503e+07 Volume of Gold: 774061
+Energy left: 1.18078e+08 Mass of Gold: 1.49503e+07 Volume of Gold: 774061
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 224
 Length: 2 Width: 16 Height: 17 Density: 19.085 Volume: 544 Mass: 10382.2
 It isn`t gold
-Energy left: 1.18059e+08 Mass of Gold: 1.49503e+07 Volume of Gold: 774061
+Energy left: 1.18078e+08 Mass of Gold: 1.49503e+07 Volume of Gold: 774061
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 225
 Length: 24 Width: 21 Height: 4 Density: 19.315 Volume: 2016 Mass: 38939
 Fits the window after being rotated and after that turned
 Energy spent: 2.57776e+06
 Energy received: 1.04886e+06
-Energy left: 1.1653e+08 Mass of Gold: 1.49892e+07 Volume of Gold: 776068
+Energy left: 1.16548e+08 Mass of Gold: 1.49892e+07 Volume of Gold: 776068
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 226
 Length: 15 Width: 26 Height: 20 Density: 19.2 Volume: 7800 Mass: 149760
 Fits the window after being turned
 Energy spent: 9.91411e+06
 Energy received: 4.03394e+06
-Energy left: 1.10649e+08 Mass of Gold: 1.5139e+07 Volume of Gold: 783835
+Energy left: 1.10668e+08 Mass of Gold: 1.5139e+07 Volume of Gold: 783835
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 227
 Length: 28 Width: 26 Height: 3 Density: 19.115 Volume: 2184 Mass: 41747.2
 Fits the window after being rotated and after that turned
 Energy spent: 2.76366e+06
 Energy received: 1.1245e+06
-Energy left: 1.09009e+08 Mass of Gold: 1.51807e+07 Volume of Gold: 786010
+Energy left: 1.09028e+08 Mass of Gold: 1.51807e+07 Volume of Gold: 786010
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 228
 Length: 12 Width: 1 Height: 12 Density: 19.325 Volume: 144 Mass: 2782.8
 Fits the window without any movements
 Energy spent: 184221
 Energy received: 74957.5
-Energy left: 1.089e+08 Mass of Gold: 1.51835e+07 Volume of Gold: 786154
+Energy left: 1.08919e+08 Mass of Gold: 1.51835e+07 Volume of Gold: 786154
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 229
 Length: 29 Width: 26 Height: 4 Density: 19.12 Volume: 3016 Mass: 57665.9
 Fits the window after being rotated and after that turned
 Energy spent: 3.81748e+06
 Energy received: 1.55329e+06
-Energy left: 1.06634e+08 Mass of Gold: 1.52412e+07 Volume of Gold: 789157
+Energy left: 1.06654e+08 Mass of Gold: 1.52412e+07 Volume of Gold: 789157
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 230
 Length: 20 Width: 6 Height: 15 Density: 19.125 Volume: 1800 Mass: 34425
 Fits the window without any movements
 Energy spent: 2.27894e+06
 Energy received: 927272
-Energy left: 1.05283e+08 Mass of Gold: 1.52756e+07 Volume of Gold: 790949
+Energy left: 1.05302e+08 Mass of Gold: 1.52756e+07 Volume of Gold: 790949
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 231
 Length: 28 Width: 21 Height: 8 Density: 19.295 Volume: 4704 Mass: 90763.7
 Fits the window after being rotated and after that turned
 Energy spent: 6.00856e+06
 Energy received: 2.44481e+06
-Energy left: 1.01718e+08 Mass of Gold: 1.53664e+07 Volume of Gold: 795634
+Energy left: 1.01738e+08 Mass of Gold: 1.53664e+07 Volume of Gold: 795634
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 232
 Length: 17 Width: 16 Height: 2 Density: 19.16 Volume: 544 Mass: 10423
 Fits the window without any movements
 Energy spent: 690005
 Energy received: 280755
-Energy left: 1.01308e+08 Mass of Gold: 1.53768e+07 Volume of Gold: 796175
+Energy left: 1.01328e+08 Mass of Gold: 1.53768e+07 Volume of Gold: 796175
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 233
 Length: 24 Width: 6 Height: 19 Density: 19.145 Volume: 2736 Mass: 52380.7
 Fits the window without any movements
 Energy spent: 3.4676e+06
 Energy received: 1.41093e+06
-Energy left: 9.92516e+07 Mass of Gold: 1.54292e+07 Volume of Gold: 798900
+Energy left: 9.92716e+07 Mass of Gold: 1.54292e+07 Volume of Gold: 798900
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 234
 Length: 30 Width: 11 Height: 20 Density: 19.335 Volume: 6600 Mass: 127611
 Fits the window without any movements
 Energy spent: 8.44785e+06
 Energy received: 3.43733e+06
-Energy left: 9.42409e+07 Mass of Gold: 1.55568e+07 Volume of Gold: 805472
+Energy left: 9.42609e+07 Mass of Gold: 1.55568e+07 Volume of Gold: 805472
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 235
 Length: 13 Width: 26 Height: 18 Density: 19.19 Volume: 6084 Mass: 116752
 Fits the window after being turned
 Energy spent: 7.72898e+06
 Energy received: 3.14483e+06
-Energy left: 8.96564e+07 Mass of Gold: 1.56735e+07 Volume of Gold: 811531
+Energy left: 8.96764e+07 Mass of Gold: 1.56735e+07 Volume of Gold: 811531
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 236
 Length: 12 Width: 16 Height: 27 Density: 19.135 Volume: 5184 Mass: 99195.8
 Fits the window without any movements
 Energy spent: 6.56676e+06
 Energy received: 2.67194e+06
-Energy left: 8.57614e+07 Mass of Gold: 1.57727e+07 Volume of Gold: 816693
+Energy left: 8.57814e+07 Mass of Gold: 1.57727e+07 Volume of Gold: 816693
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 237
 Length: 14 Width: 11 Height: 4 Density: 19.265 Volume: 616 Mass: 11867.2
 Fits the window without any movements
 Energy spent: 785611
 Energy received: 319656
-Energy left: 8.52953e+07 Mass of Gold: 1.57846e+07 Volume of Gold: 817306
+Energy left: 8.53153e+07 Mass of Gold: 1.57846e+07 Volume of Gold: 817306
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 238
 Length: 5 Width: 6 Height: 30 Density: 19.2 Volume: 900 Mass: 17280
 Fits the window without any movements
 Energy spent: 1.14394e+06
 Energy received: 465454
-Energy left: 8.46166e+07 Mass of Gold: 1.58019e+07 Volume of Gold: 818202
+Energy left: 8.46366e+07 Mass of Gold: 1.58019e+07 Volume of Gold: 818202
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 239
 Length: 28 Width: 6 Height: 23 Density: 19.165 Volume: 3864 Mass: 74053.6
 Fits the window without any movements
 Energy spent: 4.90235e+06
 Energy received: 1.99471e+06
-Energy left: 8.17087e+07 Mass of Gold: 1.58759e+07 Volume of Gold: 822050
+Energy left: 8.17287e+07 Mass of Gold: 1.58759e+07 Volume of Gold: 822050
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 240
 Length: 2 Width: 1 Height: 2 Density: 19.375 Volume: 4 Mass: 77.5
 It isn`t gold
-Energy left: 8.17086e+07 Mass of Gold: 1.58759e+07 Volume of Gold: 822050
+Energy left: 8.17286e+07 Mass of Gold: 1.58759e+07 Volume of Gold: 822050
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 241
 Length: 9 Width: 6 Height: 4 Density: 19.22 Volume: 216 Mass: 4151.52
 Fits the window without any movements
 Energy spent: 274831
 Energy received: 111825
-Energy left: 8.15454e+07 Mass of Gold: 1.58801e+07 Volume of Gold: 822265
+Energy left: 8.15654e+07 Mass of Gold: 1.58801e+07 Volume of Gold: 822265
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 242
 Length: 30 Width: 26 Height: 5 Density: 19.125 Volume: 3900 Mass: 74587.5
 Fits the window after being rotated and after that turned
 Energy spent: 4.93769e+06
 Energy received: 2.00909e+06
-Energy left: 7.86159e+07 Mass of Gold: 1.59547e+07 Volume of Gold: 826149
+Energy left: 7.86363e+07 Mass of Gold: 1.59547e+07 Volume of Gold: 826149
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 243
 Length: 28 Width: 11 Height: 18 Density: 19.345 Volume: 5544 Mass: 107249
 Fits the window without any movements
 Energy spent: 7.09986e+06
 Energy received: 2.88885e+06
-Energy left: 7.44047e+07 Mass of Gold: 1.60619e+07 Volume of Gold: 831670
+Energy left: 7.44251e+07 Mass of Gold: 1.60619e+07 Volume of Gold: 831670
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 244
 Length: 27 Width: 16 Height: 12 Density: 19.21 Volume: 5184 Mass: 99584.6
 Fits the window without any movements
 Energy spent: 6.5925e+06
 Energy received: 2.68241e+06
-Energy left: 7.04944e+07 Mass of Gold: 1.61615e+07 Volume of Gold: 836832
+Energy left: 7.05148e+07 Mass of Gold: 1.61615e+07 Volume of Gold: 836832
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 245
 Length: 14 Width: 26 Height: 19 Density: 19.195 Volume: 6916 Mass: 132753
 Fits the window after being turned
 Energy spent: 8.78822e+06
 Energy received: 3.57582e+06
-Energy left: 6.52817e+07 Mass of Gold: 1.62943e+07 Volume of Gold: 843719
+Energy left: 6.53021e+07 Mass of Gold: 1.62943e+07 Volume of Gold: 843719
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 246
 Length: 20 Width: 21 Height: 30 Density: 19.335 Volume: 12600 Mass: 243621
 Fits the window after being turned
 Energy spent: 1.61277e+07
 Energy received: 6.56218e+06
-Energy left: 5.57159e+07 Mass of Gold: 1.65379e+07 Volume of Gold: 856266
+Energy left: 5.57363e+07 Mass of Gold: 1.65379e+07 Volume of Gold: 856266
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 247
 Length: 13 Width: 6 Height: 8 Density: 19.09 Volume: 624 Mass: 11912.2
 It isn`t gold
-Energy left: 5.57158e+07 Mass of Gold: 1.65379e+07 Volume of Gold: 856266
+Energy left: 5.57362e+07 Mass of Gold: 1.65379e+07 Volume of Gold: 856266
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 248
 Length: 2 Width: 16 Height: 17 Density: 19.085 Volume: 544 Mass: 10382.2
 It isn`t gold
-Energy left: 5.57157e+07 Mass of Gold: 1.65379e+07 Volume of Gold: 856266
+Energy left: 5.57361e+07 Mass of Gold: 1.65379e+07 Volume of Gold: 856266
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 249
 Length: 24 Width: 21 Height: 4 Density: 19.315 Volume: 2016 Mass: 38939
 Fits the window after being rotated and after that turned
 Energy spent: 2.57776e+06
 Energy received: 1.04886e+06
-Energy left: 5.41859e+07 Mass of Gold: 1.65768e+07 Volume of Gold: 858273
+Energy left: 5.42067e+07 Mass of Gold: 1.65768e+07 Volume of Gold: 858273
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 250
 Length: 15 Width: 26 Height: 20 Density: 19.2 Volume: 7800 Mass: 149760
 Fits the window after being turned
 Energy spent: 9.91411e+06
 Energy received: 4.03394e+06
-Energy left: 4.83054e+07 Mass of Gold: 1.67266e+07 Volume of Gold: 866040
+Energy left: 4.83262e+07 Mass of Gold: 1.67266e+07 Volume of Gold: 866040
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 251
 Length: 28 Width: 26 Height: 3 Density: 19.115 Volume: 2184 Mass: 41747.2
 Fits the window after being rotated and after that turned
 Energy spent: 2.76366e+06
 Energy received: 1.1245e+06
-Energy left: 4.66654e+07 Mass of Gold: 1.67683e+07 Volume of Gold: 868215
+Energy left: 4.66866e+07 Mass of Gold: 1.67683e+07 Volume of Gold: 868215
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 252
 Length: 12 Width: 1 Height: 12 Density: 19.325 Volume: 144 Mass: 2782.8
 Fits the window without any movements
 Energy spent: 184221
 Energy received: 74957.5
-Energy left: 4.65559e+07 Mass of Gold: 1.67711e+07 Volume of Gold: 868359
+Energy left: 4.65771e+07 Mass of Gold: 1.67711e+07 Volume of Gold: 868359
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 253
 Length: 29 Width: 26 Height: 4 Density: 19.12 Volume: 3016 Mass: 57665.9
 Fits the window after being rotated and after that turned
 Energy spent: 3.81748e+06
 Energy received: 1.55329e+06
-Energy left: 4.42908e+07 Mass of Gold: 1.68288e+07 Volume of Gold: 871362
+Energy left: 4.43124e+07 Mass of Gold: 1.68288e+07 Volume of Gold: 871362
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 254
 Length: 20 Width: 6 Height: 15 Density: 19.125 Volume: 1800 Mass: 34425
 Fits the window without any movements
 Energy spent: 2.27894e+06
 Energy received: 927272
-Energy left: 4.29389e+07 Mass of Gold: 1.68632e+07 Volume of Gold: 873154
+Energy left: 4.29605e+07 Mass of Gold: 1.68632e+07 Volume of Gold: 873154
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 255
 Length: 28 Width: 21 Height: 8 Density: 19.295 Volume: 4704 Mass: 90763.7
 Fits the window after being rotated and after that turned
 Energy spent: 6.00856e+06
 Energy received: 2.44481e+06
-Energy left: 3.93743e+07 Mass of Gold: 1.6954e+07 Volume of Gold: 877839
+Energy left: 3.93963e+07 Mass of Gold: 1.6954e+07 Volume of Gold: 877839
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 256
 Length: 17 Width: 16 Height: 2 Density: 19.16 Volume: 544 Mass: 10423
 Fits the window without any movements
 Energy spent: 690005
 Energy received: 280755
-Energy left: 3.89648e+07 Mass of Gold: 1.69644e+07 Volume of Gold: 878380
+Energy left: 3.89868e+07 Mass of Gold: 1.69644e+07 Volume of Gold: 878380
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 257
 Length: 24 Width: 6 Height: 19 Density: 19.145 Volume: 2736 Mass: 52380.7
 Fits the window without any movements
 Energy spent: 3.4676e+06
 Energy received: 1.41093e+06
-Energy left: 3.6908e+07 Mass of Gold: 1.70168e+07 Volume of Gold: 881105
+Energy left: 3.693e+07 Mass of Gold: 1.70168e+07 Volume of Gold: 881105
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 258
 Length: 30 Width: 11 Height: 20 Density: 19.335 Volume: 6600 Mass: 127611
 Fits the window without any movements
 Energy spent: 8.44785e+06
 Energy received: 3.43733e+06
-Energy left: 3.18972e+07 Mass of Gold: 1.71444e+07 Volume of Gold: 887677
+Energy left: 3.19192e+07 Mass of Gold: 1.71444e+07 Volume of Gold: 887677
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 259
 Length: 13 Width: 26 Height: 18 Density: 19.19 Volume: 6084 Mass: 116752
 Fits the window after being turned
 Energy spent: 7.72898e+06
 Energy received: 3.14483e+06
-Energy left: 2.73128e+07 Mass of Gold: 1.72611e+07 Volume of Gold: 893736
+Energy left: 2.73348e+07 Mass of Gold: 1.72611e+07 Volume of Gold: 893736
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 260
 Length: 12 Width: 16 Height: 27 Density: 19.135 Volume: 5184 Mass: 99195.8
 Fits the window without any movements
 Energy spent: 6.56676e+06
 Energy received: 2.67194e+06
-Energy left: 2.34178e+07 Mass of Gold: 1.73603e+07 Volume of Gold: 898898
+Energy left: 2.34398e+07 Mass of Gold: 1.73603e+07 Volume of Gold: 898898
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 261
 Length: 14 Width: 11 Height: 4 Density: 19.265 Volume: 616 Mass: 11867.2
 Fits the window without any movements
 Energy spent: 785611
 Energy received: 319656
-Energy left: 2.29516e+07 Mass of Gold: 1.73722e+07 Volume of Gold: 899511
+Energy left: 2.29736e+07 Mass of Gold: 1.73722e+07 Volume of Gold: 899511
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 262
 Length: 5 Width: 6 Height: 30 Density: 19.2 Volume: 900 Mass: 17280
 Fits the window without any movements
 Energy spent: 1.14394e+06
 Energy received: 465454
-Energy left: 2.22729e+07 Mass of Gold: 1.73895e+07 Volume of Gold: 900407
+Energy left: 2.22949e+07 Mass of Gold: 1.73895e+07 Volume of Gold: 900407
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 263
 Length: 28 Width: 6 Height: 23 Density: 19.165 Volume: 3864 Mass: 74053.6
 Fits the window without any movements
 Energy spent: 4.90235e+06
 Energy received: 1.99471e+06
-Energy left: 1.93651e+07 Mass of Gold: 1.74635e+07 Volume of Gold: 904255
+Energy left: 1.93871e+07 Mass of Gold: 1.74635e+07 Volume of Gold: 904255
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 264
 Length: 2 Width: 1 Height: 2 Density: 19.375 Volume: 4 Mass: 77.5
 It isn`t gold
-Energy left: 1.9365e+07 Mass of Gold: 1.74635e+07 Volume of Gold: 904255
+Energy left: 1.9387e+07 Mass of Gold: 1.74635e+07 Volume of Gold: 904255
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 265
 Length: 9 Width: 6 Height: 4 Density: 19.22 Volume: 216 Mass: 4151.52
 Fits the window without any movements
 Energy spent: 274831
 Energy received: 111825
-Energy left: 1.92018e+07 Mass of Gold: 1.74677e+07 Volume of Gold: 904470
+Energy left: 1.92238e+07 Mass of Gold: 1.74677e+07 Volume of Gold: 904470
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 266
 Length: 30 Width: 26 Height: 5 Density: 19.125 Volume: 3900 Mass: 74587.5
 Fits the window after being rotated and after that turned
 Energy spent: 4.93769e+06
 Energy received: 2.00909e+06
-Energy left: 1.62723e+07 Mass of Gold: 1.75423e+07 Volume of Gold: 908354
+Energy left: 1.62947e+07 Mass of Gold: 1.75423e+07 Volume of Gold: 908354
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 267
 Length: 28 Width: 11 Height: 18 Density: 19.345 Volume: 5544 Mass: 107249
 Fits the window without any movements
 Energy spent: 7.09986e+06
 Energy received: 2.88885e+06
-Energy left: 1.20611e+07 Mass of Gold: 1.76495e+07 Volume of Gold: 913875
+Energy left: 1.20835e+07 Mass of Gold: 1.76495e+07 Volume of Gold: 913875
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 268
 Length: 27 Width: 16 Height: 12 Density: 19.21 Volume: 5184 Mass: 99584.6
 Fits the window without any movements
 Energy spent: 6.5925e+06
 Energy received: 2.68241e+06
-Energy left: 8.15079e+06 Mass of Gold: 1.77491e+07 Volume of Gold: 919037
+Energy left: 8.17319e+06 Mass of Gold: 1.77491e+07 Volume of Gold: 919037
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 269
 Length: 14 Width: 26 Height: 19 Density: 19.195 Volume: 6916 Mass: 132753
 Fits the window after being turned
 Not enough Energy, need to cut off something
-Needed energy:8.15011e+06 Current Energy: 8.15049e+06
+Needed energy:8.17251e+06 Current Energy: 8.17289e+06
 Part that was thrown away: 
-Length: 1.88786 Width: 14 Height: 19 Density: 19.195 Volume: 502.17 Mass: 9639.14
+Length: 1.82158 Width: 14 Height: 19 Density: 19.195 Volume: 484.542 Mass: 9300.78
 Part that was melted: 
-Length: 24.1121 Width: 14 Height: 19 Density: 19.195 Volume: 6413.83 Mass: 123113
-Energy spent: 8.15011e+06
-Energy received: 3.31618e+06
-Energy left: 3.31651e+06 Mass of Gold: 1.78722e+07 Volume of Gold: 925424
+Length: 24.1784 Width: 14 Height: 19 Density: 19.195 Volume: 6431.46 Mass: 123452
+Energy spent: 8.17251e+06
+Energy received: 3.3253e+06
+Energy left: 3.32562e+06 Mass of Gold: 1.78725e+07 Volume of Gold: 925441
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 270
 Length: 20 Width: 21 Height: 30 Density: 19.335 Volume: 12600 Mass: 243621
 Fits the window after being turned
 Not enough Energy, need to cut off something
-Needed energy:3.31583e+06 Current Energy: 3.31621e+06
+Needed energy:3.32495e+06 Current Energy: 3.32532e+06
 Part that was thrown away: 
-Length: 16.6824 Width: 20 Height: 30 Density: 19.335 Volume: 10009.5 Mass: 193533
+Length: 16.6706 Width: 20 Height: 30 Density: 19.335 Volume: 10002.3 Mass: 193395
 Part that was melted: 
-Length: 4.31757 Width: 20 Height: 30 Density: 19.335 Volume: 2590.54 Mass: 50088.1
-Energy spent: 3.31583e+06
-Energy received: 1.34917e+06
-Energy left: 1.3495e+06 Mass of Gold: 1.79223e+07 Volume of Gold: 928003
+Length: 4.32944 Width: 20 Height: 30 Density: 19.335 Volume: 2597.66 Mass: 50225.8
+Energy spent: 3.32495e+06
+Energy received: 1.35288e+06
+Energy left: 1.35321e+06 Mass of Gold: 1.79228e+07 Volume of Gold: 928028
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 271
 Length: 13 Width: 6 Height: 8 Density: 19.09 Volume: 624 Mass: 11912.2
 It isn`t gold
-Energy left: 1.3494e+06 Mass of Gold: 1.79223e+07 Volume of Gold: 928003
+Energy left: 1.35311e+06 Mass of Gold: 1.79228e+07 Volume of Gold: 928028
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 272
 Length: 2 Width: 16 Height: 17 Density: 19.085 Volume: 544 Mass: 10382.2
 It isn`t gold
-Energy left: 1.3493e+06 Mass of Gold: 1.79223e+07 Volume of Gold: 928003
+Energy left: 1.35301e+06 Mass of Gold: 1.79228e+07 Volume of Gold: 928028
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 273
 Length: 24 Width: 21 Height: 4 Density: 19.315 Volume: 2016 Mass: 38939
 Fits the window after being rotated and after that turned
 Not enough Energy, need to cut off something
-Needed energy:1.34802e+06 Current Energy: 1.3484e+06
+Needed energy:1.35213e+06 Current Energy: 1.35251e+06
 Part that was thrown away: 
-Length: 10.0182 Width: 4 Height: 24 Density: 19.315 Volume: 961.747 Mass: 18576.1
+Length: 9.98473 Width: 4 Height: 24 Density: 19.315 Volume: 958.534 Mass: 18514.1
 Part that was melted: 
-Length: 10.9818 Width: 4 Height: 24 Density: 19.315 Volume: 1054.25 Mass: 20362.9
-Energy spent: 1.34802e+06
-Energy received: 548495
-Energy left: 548818 Mass of Gold: 1.79427e+07 Volume of Gold: 929053
+Length: 11.0153 Width: 4 Height: 24 Density: 19.315 Volume: 1057.47 Mass: 20425
+Energy spent: 1.35213e+06
+Energy received: 550167
+Energy left: 550490 Mass of Gold: 1.79432e+07 Volume of Gold: 929081
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 274
 Length: 15 Width: 26 Height: 20 Density: 19.2 Volume: 7800 Mass: 149760
 Fits the window after being turned
 Not enough Energy, need to cut off something
-Needed energy:548145 Current Energy: 548518
+Needed energy:549817 Current Energy: 550190
 Part that was thrown away: 
-Length: 24.5625 Width: 15 Height: 20 Density: 19.2 Volume: 7368.74 Mass: 141480
+Length: 24.5581 Width: 15 Height: 20 Density: 19.2 Volume: 7367.43 Mass: 141455
 Part that was melted: 
-Length: 1.43752 Width: 15 Height: 20 Density: 19.2 Volume: 431.257 Mass: 8280.14
-Energy spent: 548145
-Energy received: 223034
-Energy left: 223357 Mass of Gold: 1.79509e+07 Volume of Gold: 929483
+Length: 1.44191 Width: 15 Height: 20 Density: 19.2 Volume: 432.572 Mass: 8305.39
+Energy spent: 549817
+Energy received: 223714
+Energy left: 224037 Mass of Gold: 1.79515e+07 Volume of Gold: 929512
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 275
 Length: 28 Width: 26 Height: 3 Density: 19.115 Volume: 2184 Mass: 41747.2
 Fits the window after being rotated and after that turned
 Not enough Energy, need to cut off something
-Needed energy:222084 Current Energy: 222457
+Needed energy:223164 Current Energy: 223537
 Part that was thrown away: 
-Length: 23.9107 Width: 3 Height: 28 Density: 19.115 Volume: 2008.5 Mass: 38392.4
+Length: 23.9005 Width: 3 Height: 28 Density: 19.115 Volume: 2007.64 Mass: 38376.1
 Part that was melted: 
-Length: 2.08932 Width: 3 Height: 28 Density: 19.115 Volume: 175.503 Mass: 3354.74
-Energy spent: 222084
-Energy received: 90363.3
-Energy left: 90686.3 Mass of Gold: 1.79543e+07 Volume of Gold: 929657
+Length: 2.09948 Width: 3 Height: 28 Density: 19.115 Volume: 176.357 Mass: 3371.06
+Energy spent: 223164
+Energy received: 90802.8
+Energy left: 91125.8 Mass of Gold: 1.79549e+07 Volume of Gold: 929687
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 276
 Length: 12 Width: 1 Height: 12 Density: 19.325 Volume: 144 Mass: 2782.8
 Fits the window without any movements
 Not enough Energy, need to cut off something
-Needed energy:90113.3 Current Energy: 90486.3
+Needed energy:90552.8 Current Energy: 90925.8
 Part that was thrown away: 
-Length: 6.13011 Width: 1 Height: 12 Density: 19.325 Volume: 73.5613 Mass: 1421.57
+Length: 6.10148 Width: 1 Height: 12 Density: 19.325 Volume: 73.2178 Mass: 1414.93
 Part that was melted: 
-Length: 5.86989 Width: 1 Height: 12 Density: 19.325 Volume: 70.4387 Mass: 1361.23
-Energy spent: 90113.3
-Energy received: 36666
-Energy left: 36989 Mass of Gold: 1.79557e+07 Volume of Gold: 929727
+Length: 5.89852 Width: 1 Height: 12 Density: 19.325 Volume: 70.7822 Mass: 1367.87
+Energy spent: 90552.8
+Energy received: 36844.9
+Energy left: 37167.9 Mass of Gold: 1.79562e+07 Volume of Gold: 929758
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 277
 Length: 29 Width: 26 Height: 4 Density: 19.12 Volume: 3016 Mass: 57665.9
 Fits the window after being rotated and after that turned
 Not enough Energy, need to cut off something
-Needed energy:35716 Current Energy: 36089
+Needed energy:36294.9 Current Energy: 36667.9
 Part that was thrown away: 
-Length: 25.7567 Width: 4 Height: 29 Density: 19.12 Volume: 2987.78 Mass: 57126.4
+Length: 25.7528 Width: 4 Height: 29 Density: 19.12 Volume: 2987.33 Mass: 57117.7
 Part that was melted: 
-Length: 0.243254 Width: 4 Height: 29 Density: 19.12 Volume: 28.2174 Mass: 539.517
-Energy spent: 35716
-Energy received: 14532.4
-Energy left: 14855.4 Mass of Gold: 1.79562e+07 Volume of Gold: 929756
+Length: 0.247196 Width: 4 Height: 29 Density: 19.12 Volume: 28.6747 Mass: 548.261
+Energy spent: 36294.9
+Energy received: 14768
+Energy left: 15091 Mass of Gold: 1.79568e+07 Volume of Gold: 929786
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 278
 Length: 20 Width: 6 Height: 15 Density: 19.125 Volume: 1800 Mass: 34425
 Fits the window without any movements
 Not enough Energy, need to cut off something
-Needed energy:14282.4 Current Energy: 14655.4
+Needed energy:14518 Current Energy: 14891
 Part that was thrown away: 
-Length: 19.8747 Width: 6 Height: 15 Density: 19.125 Volume: 1788.72 Mass: 34209.3
+Length: 19.8726 Width: 6 Height: 15 Density: 19.125 Volume: 1788.53 Mass: 34205.7
 Part that was melted: 
-Length: 0.125343 Width: 6 Height: 15 Density: 19.125 Volume: 11.2809 Mass: 215.747
-Energy spent: 14282.4
-Energy received: 5811.35
-Energy left: 6134.35 Mass of Gold: 1.79564e+07 Volume of Gold: 929767
+Length: 0.12741 Width: 6 Height: 15 Density: 19.125 Volume: 11.4669 Mass: 219.304
+Energy spent: 14518
+Energy received: 5907.18
+Energy left: 6230.18 Mass of Gold: 1.7957e+07 Volume of Gold: 929798
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 279
 Length: 28 Width: 21 Height: 8 Density: 19.295 Volume: 4704 Mass: 90763.7
 Fits the window after being rotated and after that turned
 Not enough Energy, need to cut off something
-Needed energy:4861.35 Current Energy: 5234.35
+Needed energy:5357.18 Current Energy: 5730.18
 Part that was thrown away: 
-Length: 20.983 Width: 8 Height: 28 Density: 19.295 Volume: 4700.19 Mass: 90690.2
+Length: 20.9813 Width: 8 Height: 28 Density: 19.295 Volume: 4699.81 Mass: 90682.8
 Part that was melted: 
-Length: 0.0169905 Width: 8 Height: 28 Density: 19.295 Volume: 3.80587 Mass: 73.4343
-Energy spent: 4861.35
-Energy received: 1978.03
-Energy left: 2301.03 Mass of Gold: 1.79565e+07 Volume of Gold: 929771
+Length: 0.0187234 Width: 8 Height: 28 Density: 19.295 Volume: 4.19405 Mass: 80.9242
+Energy spent: 5357.18
+Energy received: 2179.77
+Energy left: 2502.77 Mass of Gold: 1.79571e+07 Volume of Gold: 929802
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 280
 Length: 17 Width: 16 Height: 2 Density: 19.16 Volume: 544 Mass: 10423
 Fits the window without any movements
 Not enough Energy, need to cut off something
-Needed energy:1728.03 Current Energy: 2101.03
+Needed energy:1929.77 Current Energy: 2302.77
 Part that was thrown away: 
-Length: 16.9574 Width: 16 Height: 2 Density: 19.16 Volume: 542.638 Mass: 10396.9
+Length: 16.9525 Width: 16 Height: 2 Density: 19.16 Volume: 542.479 Mass: 10393.9
 Part that was melted: 
-Length: 0.0425743 Width: 16 Height: 2 Density: 19.16 Volume: 1.36238 Mass: 26.1031
-Energy spent: 1728.03
-Energy received: 703.114
-Energy left: 1026.11 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Length: 0.0475448 Width: 16 Height: 2 Density: 19.16 Volume: 1.52143 Mass: 29.1507
+Energy spent: 1929.77
+Energy received: 785.203
+Energy left: 1108.2 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 281
 Length: 24 Width: 6 Height: 19 Density: 19.145 Volume: 2736 Mass: 52380.7
 Fits the window without any movements
 Not enough Energy, need to cut off something
-Needed energy:453.114 Current Energy: 826.114
+Needed energy:535.203 Current Energy: 908.203
 Part that was thrown away: 
-Length: 23.9969 Width: 6 Height: 19 Density: 19.145 Volume: 2735.64 Mass: 52373.9
+Length: 23.9963 Width: 6 Height: 19 Density: 19.145 Volume: 2735.58 Mass: 52372.6
 Part that was melted: 
-Length: 0.0031361 Width: 6 Height: 19 Density: 19.145 Volume: 0.357515 Mass: 6.84462
-Energy spent: 453.114
-Energy received: 184.367
-Energy left: 507.367 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Length: 0.00370425 Width: 6 Height: 19 Density: 19.145 Volume: 0.422284 Mass: 8.08463
+Energy spent: 535.203
+Energy received: 217.768
+Energy left: 540.768 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 282
 Length: 30 Width: 11 Height: 20 Density: 19.335 Volume: 6600 Mass: 127611
 Fits the window without any movements
-Not enough energy to perform a single operation
-Energy left: 357.367 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Not Enough Energy
+Energy left: 340.768 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
 ____________________________________________________________________________________________________________________
+Not enough energy to perform a single operation
 Parallelepiped Number 283
 Length: 13 Width: 26 Height: 18 Density: 19.19 Volume: 6084 Mass: 116752
 Not enough energy to perform a single operation
-Energy left: 357.367 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Energy left: 340.768 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 284
 Length: 12 Width: 16 Height: 27 Density: 19.135 Volume: 5184 Mass: 99195.8
 Not enough energy to perform a single operation
-Energy left: 357.367 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Energy left: 340.768 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 285
 Length: 14 Width: 11 Height: 4 Density: 19.265 Volume: 616 Mass: 11867.2
 Not enough energy to perform a single operation
-Energy left: 357.367 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Energy left: 340.768 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 286
 Length: 5 Width: 6 Height: 30 Density: 19.2 Volume: 900 Mass: 17280
 Not enough energy to perform a single operation
-Energy left: 357.367 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Energy left: 340.768 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 287
 Length: 28 Width: 6 Height: 23 Density: 19.165 Volume: 3864 Mass: 74053.6
 Not enough energy to perform a single operation
-Energy left: 357.367 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Energy left: 340.768 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 288
 Length: 2 Width: 1 Height: 2 Density: 19.375 Volume: 4 Mass: 77.5
 Not enough energy to perform a single operation
-Energy left: 357.367 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Energy left: 340.768 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 289
 Length: 9 Width: 6 Height: 4 Density: 19.22 Volume: 216 Mass: 4151.52
 Not enough energy to perform a single operation
-Energy left: 357.367 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Energy left: 340.768 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 290
 Length: 30 Width: 26 Height: 5 Density: 19.125 Volume: 3900 Mass: 74587.5
 Not enough energy to perform a single operation
-Energy left: 357.367 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Energy left: 340.768 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 291
 Length: 28 Width: 11 Height: 18 Density: 19.345 Volume: 5544 Mass: 107249
 Not enough energy to perform a single operation
-Energy left: 357.367 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Energy left: 340.768 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 292
 Length: 27 Width: 16 Height: 12 Density: 19.21 Volume: 5184 Mass: 99584.6
 Not enough energy to perform a single operation
-Energy left: 357.367 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Energy left: 340.768 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 293
 Length: 14 Width: 26 Height: 19 Density: 19.195 Volume: 6916 Mass: 132753
 Not enough energy to perform a single operation
-Energy left: 357.367 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Energy left: 340.768 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 294
 Length: 20 Width: 21 Height: 30 Density: 19.335 Volume: 12600 Mass: 243621
 Not enough energy to perform a single operation
-Energy left: 357.367 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Energy left: 340.768 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 295
 Length: 13 Width: 6 Height: 8 Density: 19.09 Volume: 624 Mass: 11912.2
 Not enough energy to perform a single operation
-Energy left: 357.367 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Energy left: 340.768 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 296
 Length: 2 Width: 16 Height: 17 Density: 19.085 Volume: 544 Mass: 10382.2
 Not enough energy to perform a single operation
-Energy left: 357.367 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Energy left: 340.768 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 297
 Length: 24 Width: 21 Height: 4 Density: 19.315 Volume: 2016 Mass: 38939
 Not enough energy to perform a single operation
-Energy left: 357.367 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Energy left: 340.768 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 298
 Length: 15 Width: 26 Height: 20 Density: 19.2 Volume: 7800 Mass: 149760
 Not enough energy to perform a single operation
-Energy left: 357.367 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Energy left: 340.768 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 299
 Length: 28 Width: 26 Height: 3 Density: 19.115 Volume: 2184 Mass: 41747.2
 Not enough energy to perform a single operation
-Energy left: 357.367 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Energy left: 340.768 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
 ____________________________________________________________________________________________________________________
 Parallelepiped Number 300
 Length: 12 Width: 1 Height: 12 Density: 19.325 Volume: 144 Mass: 2782.8
 Not enough energy to perform a single operation
-Energy left: 357.367 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Energy left: 340.768 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
 ____________________________________________________________________________________________________________________
 Psssssh... Flew Away... 
 Trash:
@@ -2093,19 +2094,20 @@ Length: 2 Width: 1 Height: 2 Density: 19.375 Volume: 4 Mass: 77.5
 Length: 13 Width: 6 Height: 8 Density: 19.09 Volume: 624 Mass: 11912.2
 Length: 2 Width: 16 Height: 17 Density: 19.085 Volume: 544 Mass: 10382.2
 Length: 2 Width: 1 Height: 2 Density: 19.375 Volume: 4 Mass: 77.5
-Length: 1.88786 Width: 14 Height: 19 Density: 19.195 Volume: 502.17 Mass: 9639.14
-Length: 16.6824 Width: 20 Height: 30 Density: 19.335 Volume: 10009.5 Mass: 193533
+Length: 1.82158 Width: 14 Height: 19 Density: 19.195 Volume: 484.542 Mass: 9300.78
+Length: 16.6706 Width: 20 Height: 30 Density: 19.335 Volume: 10002.3 Mass: 193395
 Length: 13 Width: 6 Height: 8 Density: 19.09 Volume: 624 Mass: 11912.2
 Length: 2 Width: 16 Height: 17 Density: 19.085 Volume: 544 Mass: 10382.2
-Length: 10.0182 Width: 4 Height: 24 Density: 19.315 Volume: 961.747 Mass: 18576.1
-Length: 24.5625 Width: 15 Height: 20 Density: 19.2 Volume: 7368.74 Mass: 141480
-Length: 23.9107 Width: 3 Height: 28 Density: 19.115 Volume: 2008.5 Mass: 38392.4
-Length: 6.13011 Width: 1 Height: 12 Density: 19.325 Volume: 73.5613 Mass: 1421.57
-Length: 25.7567 Width: 4 Height: 29 Density: 19.12 Volume: 2987.78 Mass: 57126.4
-Length: 19.8747 Width: 6 Height: 15 Density: 19.125 Volume: 1788.72 Mass: 34209.3
-Length: 20.983 Width: 8 Height: 28 Density: 19.295 Volume: 4700.19 Mass: 90690.2
-Length: 16.9574 Width: 16 Height: 2 Density: 19.16 Volume: 542.638 Mass: 10396.9
-Length: 23.9969 Width: 6 Height: 19 Density: 19.145 Volume: 2735.64 Mass: 52373.9
+Length: 9.98473 Width: 4 Height: 24 Density: 19.315 Volume: 958.534 Mass: 18514.1
+Length: 24.5581 Width: 15 Height: 20 Density: 19.2 Volume: 7367.43 Mass: 141455
+Length: 23.9005 Width: 3 Height: 28 Density: 19.115 Volume: 2007.64 Mass: 38376.1
+Length: 6.10148 Width: 1 Height: 12 Density: 19.325 Volume: 73.2178 Mass: 1414.93
+Length: 25.7528 Width: 4 Height: 29 Density: 19.12 Volume: 2987.33 Mass: 57117.7
+Length: 19.8726 Width: 6 Height: 15 Density: 19.125 Volume: 1788.53 Mass: 34205.7
+Length: 20.9813 Width: 8 Height: 28 Density: 19.295 Volume: 4699.81 Mass: 90682.8
+Length: 16.9525 Width: 16 Height: 2 Density: 19.16 Volume: 542.479 Mass: 10393.9
+Length: 23.9963 Width: 6 Height: 19 Density: 19.145 Volume: 2735.58 Mass: 52372.6
+Length: 30 Width: 11 Height: 20 Density: 19.335 Volume: 6600 Mass: 127611
 Length: 30 Width: 11 Height: 20 Density: 19.335 Volume: 6600 Mass: 127611
 Length: 13 Width: 26 Height: 18 Density: 19.19 Volume: 6084 Mass: 116752
 Length: 12 Width: 16 Height: 27 Density: 19.135 Volume: 5184 Mass: 99195.8
@@ -2361,15 +2363,15 @@ Length: 9 Width: 6 Height: 4 Density: 19.22 Volume: 216 Mass: 4151.52
 Length: 26 Width: 5 Height: 30 Density: 19.125 Volume: 3900 Mass: 74587.5
 Length: 28 Width: 11 Height: 18 Density: 19.345 Volume: 5544 Mass: 107249
 Length: 27 Width: 16 Height: 12 Density: 19.21 Volume: 5184 Mass: 99584.6
-Length: 24.1121 Width: 14 Height: 19 Density: 19.195 Volume: 6413.83 Mass: 123113
-Length: 4.31757 Width: 20 Height: 30 Density: 19.335 Volume: 2590.54 Mass: 50088.1
-Length: 10.9818 Width: 4 Height: 24 Density: 19.315 Volume: 1054.25 Mass: 20362.9
-Length: 1.43752 Width: 15 Height: 20 Density: 19.2 Volume: 431.257 Mass: 8280.14
-Length: 2.08932 Width: 3 Height: 28 Density: 19.115 Volume: 175.503 Mass: 3354.74
-Length: 5.86989 Width: 1 Height: 12 Density: 19.325 Volume: 70.4387 Mass: 1361.23
-Length: 0.243254 Width: 4 Height: 29 Density: 19.12 Volume: 28.2174 Mass: 539.517
-Length: 0.125343 Width: 6 Height: 15 Density: 19.125 Volume: 11.2809 Mass: 215.747
-Length: 0.0169905 Width: 8 Height: 28 Density: 19.295 Volume: 3.80587 Mass: 73.4343
-Length: 0.0425743 Width: 16 Height: 2 Density: 19.16 Volume: 1.36238 Mass: 26.1031
-Length: 0.0031361 Width: 6 Height: 19 Density: 19.145 Volume: 0.357515 Mass: 6.84462
-Energy left: 34.3667 Mass of Gold: 1.79565e+07 Volume of Gold: 929772
+Length: 24.1784 Width: 14 Height: 19 Density: 19.195 Volume: 6431.46 Mass: 123452
+Length: 4.32944 Width: 20 Height: 30 Density: 19.335 Volume: 2597.66 Mass: 50225.8
+Length: 11.0153 Width: 4 Height: 24 Density: 19.315 Volume: 1057.47 Mass: 20425
+Length: 1.44191 Width: 15 Height: 20 Density: 19.2 Volume: 432.572 Mass: 8305.39
+Length: 2.09948 Width: 3 Height: 28 Density: 19.115 Volume: 176.357 Mass: 3371.06
+Length: 5.89852 Width: 1 Height: 12 Density: 19.325 Volume: 70.7822 Mass: 1367.87
+Length: 0.247196 Width: 4 Height: 29 Density: 19.12 Volume: 28.6747 Mass: 548.261
+Length: 0.12741 Width: 6 Height: 15 Density: 19.125 Volume: 11.4669 Mass: 219.304
+Length: 0.0187234 Width: 8 Height: 28 Density: 19.295 Volume: 4.19405 Mass: 80.9242
+Length: 0.0475448 Width: 16 Height: 2 Density: 19.16 Volume: 1.52143 Mass: 29.1507
+Length: 0.00370425 Width: 6 Height: 19 Density: 19.145 Volume: 0.422284 Mass: 8.08463
+Energy left: 17.7677 Mass of Gold: 1.79571e+07 Volume of Gold: 929804
