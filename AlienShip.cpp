@@ -36,7 +36,6 @@ bool AlienShip::checkIfGold()
 
 void AlienShip::rotate()
 {
-	performAnOperation();
 	if (!flag)
 	{
 		current.rotate();
@@ -45,7 +44,6 @@ void AlienShip::rotate()
 
 void AlienShip::turn()
 {
-	performAnOperation();
 	if (!flag)
 	{
 		current.turn();
@@ -110,6 +108,7 @@ bool AlienShip::rotateAndCheckIfFitsWindow()
 		turn();
 		if (checkIfFitsWindow())
 		{
+			performAnOperation();
 			std::cerr << "Fits the window after being turned" << std::endl;
 			return true;
 		}
@@ -118,6 +117,7 @@ bool AlienShip::rotateAndCheckIfFitsWindow()
 		rotate();
 		if (checkIfFitsWindow())
 		{
+			performAnOperation();
 			std::cerr << "Fits the window after being rotated" << std::endl;
 			return true;
 		}
@@ -127,6 +127,8 @@ bool AlienShip::rotateAndCheckIfFitsWindow()
 		rotate();
 		if (checkIfFitsWindow()) 
 		{
+			performAnOperation();
+			performAnOperation();
 			std::cerr << "Fits the window after being turned and after that rotated" << std::endl;
 			return true;
 		}
@@ -137,6 +139,8 @@ bool AlienShip::rotateAndCheckIfFitsWindow()
 		turn();
 		if (checkIfFitsWindow()) 
 		{
+			performAnOperation();
+			performAnOperation();
 			std::cerr << "Fits the window after being rotated and after that turned" << std::endl;
 			return true;
 		}
@@ -148,6 +152,9 @@ bool AlienShip::rotateAndCheckIfFitsWindow()
 		rotate();
 		if (checkIfFitsWindow())
 		{
+			performAnOperation();
+			performAnOperation();
+			performAnOperation();
 			std::cerr << "Fits the window after being rotated and after that turned and rotated" << std::endl;
 			return true;
 		}
@@ -155,7 +162,7 @@ bool AlienShip::rotateAndCheckIfFitsWindow()
 		turn();
 		rotate();
 
-		std::cerr << "Doesn`t fit the window after all possible movements" << std::endl;
+		std::cerr << "Doesn`t fit the window " << std::endl;
 		return false;
 	}
 	return false;
